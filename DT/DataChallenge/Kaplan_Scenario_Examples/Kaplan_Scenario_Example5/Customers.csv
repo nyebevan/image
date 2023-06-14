@@ -1,0 +1,169 @@
+Customer ID,Customer Name,City,State,Zip Code,Country,Region
+A-103151,Brenda Adams,Minneapolis,Minnesota,55407,United States,Central US
+A-103751,Henry Alexander,Los Angeles,California,90008,United States,Western US
+A-104801,Mildred Allen,Detroit,Michigan,48234,United States,Central US
+A-106451,Joseph Alvarez,Lowell,Massachusetts,1852,United States,Eastern US
+A-119651,Aaron Anderson,Lakewood,Ohio,44107,United States,Eastern US
+A-120551,Harry Andrews,Houston,Texas,77036,United States,Central US
+A-122651,Anne Armstrong,Provo,Utah,84604,United States,Western US
+A-123101,Andrea Arnold,San Antonio,Texas,78207,United States,Central US
+A-127751,Douglas Arnold,Philadelphia,Pennsylvania,19140,United States,Eastern US
+A-134501,Carol Austin,Washington,District of Columbia,20016,United States,Eastern US
+A-140351,Brandon Adams,Columbus,Ohio,43229,United States,Eastern US
+A-142301,Todd Alexander,Denver,Colorado,80219,United States,Western US
+A-145151,Ronald Allen,San Francisco,California,94109,United States,Western US
+A-147251,Judith Anderson,Salem,Oregon,97301,United States,Western US
+B-100151,Donald Bailey,Oklahoma City,Oklahoma,73120,United States,Central US
+B-100601,Anna Baker,Indianapolis,Indiana,46203,United States,Central US
+B-101051,Antonio Banks,Houston,Texas,77041,United States,Central US
+B-101501,Christopher Barnes,Long Beach,New York,11561,United States,Eastern US
+B-101651,Adam Bell,Bellevue,Washington,98006,United States,Western US
+B-102551,Mildred Bennett,Jackson,Mississippi,39212,United States,Southern US
+B-106001,Gregory Berry,Tucson,Arizona,85705,United States,Western US
+B-109901,Bruce Bishop,Toledo,Ohio,43615,United States,Eastern US
+B-115451,Earl Black,Saint Charles,Missouri,63301,United States,Central US
+B-120251,Carl Bowman,Richmond,Virginia,23223,United States,Southern US
+B-124151,Catherine Boyd,Chicago,Illinois,60653,United States,Central US
+B-125351,Alice Bradley,Chapel Hill,North Carolina,27514,United States,Southern US
+B-129101,Amy Brooks,Fort Lauderdale,Florida,33311,United States,Southern US
+B-129701,Aaron Brown,Los Angeles,California,90045,United States,Western US
+B-130601,Howard Bryant,Seattle,Washington,98115,United States,Western US
+B-131201,Brandon Burke,Rochester,New York,14609,United States,Eastern US
+B-132101,Fred Burns,Philadelphia,Pennsylvania,19134,United States,Eastern US
+B-132701,Frances Burton,Austin,Texas,78745,United States,Central US
+B-133601,Diane Campbell,Salt Lake City,Utah,84106,United States,Western US
+C-104201,Amy Carpenter,Houston,Texas,77041,United States,Central US
+C-104501,Janet Carr,Tampa,Florida,33614,United States,Southern US
+C-106151,Ashley Carroll,Beaumont,Texas,77705,United States,Central US
+C-106601,Brandon Carter,San Francisco,California,94109,United States,Western US
+C-111251,Frank Castillo,Peoria,Arizona,85345,United States,Western US
+C-121001,Alan Chapman,Detroit,Michigan,48234,United States,Central US
+C-121451,Bruce Chavez,Oklahoma City,Oklahoma,73120,United States,Central US
+C-122201,Billy Clark,Fairfield,Connecticut,6824,United States,Eastern US
+C-123701,Christine Cole,New York City,New York,10011,United States,Eastern US
+C-124301,Beverly Coleman,Minneapolis,Minnesota,55407,United States,Central US
+C-124751,Christine Collins,New York City,New York,10024,United States,Eastern US
+C-125501,Billy Cook,Denver,Colorado,80219,United States,Western US
+C-126101,Billy Cook,Denver,Colorado,80219,United States,Western US
+C-126701,Anna Cooper,Chicago,Illinois,60610,United States,Central US
+C-126851,Adam Cox,Henderson,Kentucky,42420,United States,Southern US
+C-128501,Adam Cox,Henderson,Kentucky,42420,United States,Southern US
+C-132851,Janice Crawford,Cleveland,Ohio,44105,United States,Eastern US
+C-140501,Laura Cruz,Los Angeles,California,90032,United States,Western US
+C-142451,Laura Cruz,Los Angeles,California,90032,United States,Western US
+C-143351,Annie Cunningham,Chicago,Illinois,60610,United States,Central US
+M-103601,Chris Mason,Las Vegas,Nevada,89115,United States,Western US
+M-107051,Chris Mason,Las Vegas,Nevada,89115,United States,Western US
+O-108101,Harry Oliver,Philadelphia,Pennsylvania,19134,United States,Eastern US
+O-113501,Harry Oliver,Philadelphia,Pennsylvania,19134,United States,Eastern US
+O-114251,Harry Oliver,Philadelphia,Pennsylvania,19134,United States,Eastern US
+O-126401,Harry Oliver,Philadelphia,Pennsylvania,19134,United States,Eastern US
+O-134351,Stephanie Owens,Seattle,Washington,98105,United States,Western US
+P-107201,Roy Payne,Florence,Alabama,35630,United States,Southern US
+P-109151,Douglas Perez,Los Angeles,California,90045,United States,Western US
+P-110501,Jane Peterson,Plainfield,New Jersey,7060,United States,Eastern US
+P-110951,Jane Peterson,Plainfield,New Jersey,7060,United States,Eastern US
+P-111551,Norma Porter,Paterson,New Jersey,7501,United States,Eastern US
+P-111851,Ruby Powell,Dallas,Texas,75081,United States,Central US
+P-112301,Cynthia Price,Concord,North Carolina,28027,United States,Southern US
+P-112901,Cynthia Price,Concord,North Carolina,28027,United States,Southern US
+R-100901,Alan Ross,New York City,New York,10035,United States,Eastern US
+R-101351,Jack Russell,Montgomery,Alabama,36116,United States,Southern US
+R-101407,Brenda Ruiz,Los Angeles,California,90049,United States,Western US
+R-102401,Jack Ryan,Cleveland,Ohio,44105,United States,Eastern US
+R-103451,Dorothy Ramirez,Austin,Texas,78745,United States,Central US
+R-104051,Dorothy Ramirez,Austin,Texas,78745,United States,Central US
+R-105101,Edward Ray,Woonsocket,Rhode Island,2895,United States,Eastern US
+R-105401,Edward Ray,Woonsocket,Rhode Island,2895,United States,Eastern US
+R-105701,Brandon Reed,Columbus,Georgia,31907,United States,Southern US
+R-108251,Brandon Reed,Columbus,Georgia,31907,United States,Southern US
+R-125801,Donna Reid,Grand Rapids,Michigan,49505,United States,Central US
+R-126251,Donna Reid,Grand Rapids,Michigan,49505,United States,Central US
+R-127301,Donna Reid,Grand Rapids,Michigan,49505,United States,Central US
+R-128201,Donna Reid,Grand Rapids,Michigan,49505,United States,Central US
+R-128801,Martin Reyes,Miami,Florida,33180,United States,Southern US
+R-129401,Virginia Rice,Albuquerque,New Mexico,87105,United States,Western US
+R-138551,Virginia Rice,Albuquerque,New Mexico,87105,United States,Western US
+R-145601,Joseph Richards,Wilmington,Delaware,19805,United States,Eastern US
+R-147701,Joseph Richards,Wilmington,Delaware,19805,United States,Eastern US
+R-148301,Margaret Richardson,Seattle,Washington,98103,United States,Western US
+R-156701,Margaret Richardson,Seattle,Washington,98103,United States,Western US
+R-157001,Andrew Riley,Springfield,Oregon,97477,United States,Western US
+R-162101,Andrew Riley,Springfield,Oregon,97477,United States,Western US
+R-169151,John Rivera,San Diego,California,92024,United States,Western US
+R-170351,Brandon Roberts,Houston,Texas,77041,United States,Central US
+R-175451,Tina Robertson,Philadelphia,Pennsylvania,19140,United States,Eastern US
+R-185501,Tina Robertson,Philadelphia,Pennsylvania,19140,United States,Eastern US
+R-188801,Craig Robinson,Oakland,California,94601,United States,Western US
+R-193151,Craig Robinson,Oakland,California,94601,United States,Western US
+R-195251,Alan Rodriguez,Overland Park,Kansas,66212,United States,Central US
+R-204251,Angela Rogers,Detroit,Michigan,48234,United States,Central US
+R-207401,Alan Romero,Bloomington,Indiana,47401,United States,Central US
+R-213251,Donald Rose,Nashville,Tennessee,37211,United States,Southern US
+S-102851,James Sanchez,Dallas,Texas,75081,United States,Central US
+S-106301,James Sanchez,Dallas,Texas,75081,United States,Central US
+S-113651,Virginia Sanders,Oklahoma City,Oklahoma,73120,United States,Central US
+S-113801,Virginia Sanders,Oklahoma City,Oklahoma,73120,United States,Central US
+S-115901,Albert Schmidt,Louisville,Kentucky,40214,United States,Southern US
+S-116651,Jason Scott,San Diego,California,92105,United States,Western US
+S-117551,Jason Scott,San Diego,California,92105,United States,Western US
+S-118001,Catherine Shaw,New York City,New York,10011,United States,Eastern US
+S-118451,Catherine Shaw,New York City,New York,10011,United States,Eastern US
+S-118601,Michelle Simpson,Jacksonville,North Carolina,28540,United States,Southern US
+S-119501,Brandon Sims,Seattle,Washington,98115,United States,Western US
+S-121301,Todd Smith,Englewood,Colorado,80112,United States,Western US
+S-121751,Antonio Snyder,Iowa City,Iowa,52240,United States,Central US
+S-122501,Bruce Spencer,Green Bay,Wisconsin,54302,United States,Central US
+S-123551,Rose Stanley,Lafayette,Louisiana,70506,United States,Southern US
+S-124001,Anthony Stephens,Fargo,North Dakota,58103,United States,Central US
+S-124601,Andrea Stevens,Toledo,Ohio,43615,United States,Eastern US
+S-124901,Andrea Stevens,Toledo,Ohio,43615,United States,Eastern US
+S-125051,Frank Stewart,San Francisco,California,94122,United States,Western US
+S-130301,Beverly Stone,Aurora,Colorado,80013,United States,Western US
+S-131801,Edward Sullivan,San Antonio,Texas,78207,United States,Central US
+T-104351,Andrew Taylor,Akron,Ohio,44312,United States,Eastern US
+T-107351,Harold Thomas,Houston,Texas,77041,United States,Central US
+T-113051,Earl Thompson,Superior,Wisconsin,54880,United States,Central US
+T-113951,Karen Torres,New York City,New York,10035,United States,Eastern US
+T-114401,Karen Torres,New York City,New York,10035,United States,Eastern US
+T-114851,Eric Tucker,Clinton,Maryland,20735,United States,Eastern US
+T-115301,Eric Tucker,Clinton,Maryland,20735,United States,Eastern US
+T-116801,Brandon Turner,Fort Lauderdale,Florida,33311,United States,Southern US
+T-119951,Eric Turner,Indianapolis,Indiana,46203,United States,Central US
+V-112451,Patrick Vasquez,Fresno,California,93727,United States,Western US
+V-122951,Patrick Vasquez,Fresno,California,93727,United States,Western US
+W-108401,Anna Wagner,Bakersfield,California,93309,United States,Western US
+W-109301,Anna Wagner,Bakersfield,California,93309,United States,Western US
+W-110651,Heather Walker,Raleigh,North Carolina,27604,United States,Southern US
+W-111101,Heather Walker,Raleigh,North Carolina,27604,United States,Southern US
+W-112001,Amanda Wallace,Bozeman,Montana,59715,United States,Western US
+W-119051,Amanda Wallace,Bozeman,Montana,59715,United States,Western US
+W-131951,Denise Ward,Oakland,California,94601,United States,Western US
+W-134801,Denise Ward,Oakland,California,94601,United States,Western US
+W-135401,Bobby Warren,New York City,New York,10024,United States,Eastern US
+W-135851,Bobby Warren,New York City,New York,10024,United States,Eastern US
+W-143951,Jessica Washington,Philadelphia,Pennsylvania,19140,United States,Eastern US
+W-146051,Jessica Washington,Philadelphia,Pennsylvania,19140,United States,Eastern US
+W-149351,Janet Watkins,Indianapolis,Indiana,46203,United States,Central US
+W-152201,Henry Watson,Vancouver,Washington,98661,United States,Western US
+W-159551,Phyllis Weaver,Raleigh,North Carolina,27604,United States,Southern US
+W-160751,Phyllis Weaver,Raleigh,North Carolina,27604,United States,Southern US
+W-164351,Carlos Webb,Austin,Texas,78745,United States,Central US
+W-165701,Carlos Webb,Austin,Texas,78745,United States,Central US
+W-168251,Robin Welch,Phoenix,Arizona,85023,United States,Western US
+W-169901,Victor Wells,Virginia Beach,Virginia,23464,United States,Southern US
+W-172151,Anthony West,Rochester,New York,14609,United States,Eastern US
+W-182201,Julie Wheeler,Seattle,Washington,98103,United States,Western US
+W-182351,Julie Wheeler,Seattle,Washington,98103,United States,Western US
+W-184001,Annie White,Las Vegas,Nevada,89115,United States,Western US
+W-190301,Elizabeth Williams,Pompano Beach,Florida,33068,United States,Southern US
+W-192401,Bonnie Williamson,Wilmington,Delaware,19805,United States,Eastern US
+W-195401,Kathryn Willis,Brentwood,California,94513,United States,Western US
+W-196301,Alan Wilson,Dallas,Texas,75220,United States,Central US
+W-196901,Aaron Wood,Wilmington,North Carolina,28403,United States,Southern US
+W-202451,Judith Woods,Troy,New York,12180,United States,Eastern US
+W-202751,Judith Woods,Troy,New York,12180,United States,Eastern US
+W-203501,Eric Wright,Tampa,Florida,33614,United States,Southern US
+W-204551,Eric Wright,Tampa,Florida,33614,United States,Southern US
+Y-105551,Julia Young,Los Angeles,California,90049,United States,Western US
+Y-127451,Philip Young,Oakland,California,94601,United States,Western US

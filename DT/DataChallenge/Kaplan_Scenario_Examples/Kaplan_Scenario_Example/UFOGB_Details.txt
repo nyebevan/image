@@ -1,0 +1,1905 @@
+244	1/1/1978 00:00	london (uk/englnd)	gb	disk	1	6/12/2008
+245	1/1/1982 17:00	newcastle (uk/england)	gb	cylinder	30	3/21/2003
+246	1/1/2002 13:00	torquay (outside of) (uk/england)	gb	sphere	30	5/24/2005
+247	1/1/2002 22:00	sheffield (south yorkshire) (uk/england)	gb	sphere	20	12/14/2006
+248	1/1/2003 00:05	grimsby (uk/england)	gb	light	60	3/4/2003
+249	1/1/2003 00:20	brighton (uk/england)	gb	light	240	3/4/2003
+250	1/1/2004 12:00	london (uk/england)	gb	fireball	1800	1/17/2004
+251	1/1/2004 00:00	glasgow (uk/scotland)	gb	other	2	3/2/2004
+252	1/1/2005 00:20	waltham abbey (uk/england)	gb	sphere	360	1/11/2005
+253	1/1/2005 03:30	london (uk/england)	gb	formation	60	2/22/2005
+254	1/1/2007 19:45	welwyn garden city (uk/england)	gb	oval	600	2/1/2007
+255	1/1/2008 00:10	ellesmere port (uk/england)	gb	disk	120	1/21/2008
+256	1/1/2008 00:20	sheffield (uk/england)	gb	formation	900	1/21/2008
+257	1/1/2009 00:05	cardiff (uk/wales)	gb	light	45	3/19/2009
+258	1/1/2009 00:05	southampton (uk/england)	gb	oval	900	8/5/2009
+259	1/1/2009 00:20	london (uk/england)	gb	disk	420	1/10/2009
+260	1/1/2009 00:20	london (uk/england)	gb	flash	900	1/10/2009
+261	1/1/2009 01:21	swanage (uk/england)	gb	other	3600	3/19/2009
+262	1/1/2009 02:10	croydon (uk/england)	gb	other	180	1/10/2009
+263	1/1/2009 18:00	sheffield (uk/england)	gb	fireball	300	1/10/2009
+264	1/1/2010 00:11	london (uk/england)	gb	diamond	10	2/14/2010
+265	1/1/2010 00:15	leicestershire (uk/england)	gb	fireball	5	2/14/2010
+266	1/1/2010 00:20	walsall (uk/england)	gb	light	1200	2/14/2010
+267	1/1/2010 00:24	bromsgrove (uk/england)	gb	circle	360	2/14/2010
+268	1/1/2010 01:00	newcastle (uk/england)	gb	other	180	2/14/2010
+269	1/1/2010 01:45	stroud (uk/england)	gb	fireball	120	2/14/2010
+270	1/1/2010 00:00	glasgow (uk/scotland)	gb	fireball	120	2/14/2010
+271	1/1/2012 21:45	edinburgh (uk/scotland)	gb	sphere	900	1/24/2012
+272	1/1/2013 00:00	norwich (uk/england)	gb	oval	40	2/4/2013
+273	1/1/2013 00:30	chawton (village) (uk/england)	gb	light	25	2/4/2013
+274	1/1/2013 01:50	alton (hampshire)(uk/england)	gb	fireball	120	2/4/2013
+275	1/1/2013 05:10	london (uk/england)	gb	oval	1800	2/4/2013
+184	1/10/1971 21:00	preston (uk/england)	gb	disk	180	12/19/2003
+185	1/10/1998 18:00	london (uk/england)	gb	circle	240	9/29/2004
+186	1/10/2002 17:25	nottingham (uk/england)	gb	circle	3	1/29/2002
+187	1/10/2004 00:00	dunstable (uk/england)	gb	changing	1800	1/17/2004
+188	1/10/2006 01:00	exeter (uk/england)	gb	teardrop	30	2/14/2006
+189	1/10/2009 19:00	grimsby (uk/england)	gb	changing	240	12/12/2009
+190	1/10/2009 22:00	bath (uk/england)	gb	circle	2	1/10/2009
+191	1/10/2010 07:23	kilmartin (uk/scotland)	gb	triangle	720	2/14/2010
+192	1/10/2011 11:10	kent (uk/england)	gb	disk	300	10/10/2011
+193	1/10/2011 19:30	swansea (uk/wales)	gb	other	600	10/10/2011
+61	1/11/1974 03:00	cambridge (uk/england)	gb	sphere	900	2/18/2001
+63	1/11/1989 20:30	shotts (uk/scotland)	gb	rectangle	60	10/8/2007
+64	1/11/1992 00:00	newtown (uk/wales)	gb	other	600	1/17/2004
+67	1/11/2001 18:00	norwich (uk/england)	gb	changing	360	1/29/2002
+68	1/11/2001 20:45	nottingham (uk/england)	gb	light	120	2/18/2001
+71	1/11/2008 23:25	london (southwest) (uk/england)	gb	light	120	1/10/2009
+285	1/12/2005 21:00	sidcup (uk/england)	gb	cross	3600	1/19/2005
+286	1/12/2008 00:07	liverpool (uk/england)	gb	formation	600	2/14/2008
+288	1/12/2013 21:00	biggar (south lanarkshire) (uk/scotland)	gb	sphere	21600	2/4/2013
+325	1/13/2000 23:30	motherwell (near glasgow) (uk/scotland)	gb	sphere	120	12/17/2011
+326	1/13/2001 18:01	sheffield (uk/england)	gb	fireball	2	2/18/2001
+327	1/13/2005 06:40	liverpool (uk/england)	gb		10	2/8/2005
+328	1/13/2005 07:20	plymouth (uk/england)	gb	circle	6300	1/19/2005
+330	1/13/2009 20:56	rustington (uk/england)	gb	oval	3600	3/19/2009
+331	1/13/2012 19:45	manchester (uk/england)	gb	other	30	1/24/2012
+333	1/14/2003 16:15	plymouth (uk/england)	gb	light	60	3/4/2003
+334	1/14/2003 18:45	northampton (uk/england)	gb	unknown	180	3/4/2003
+335	1/14/2004 16:02	manchester (uk/england)	gb	fireball	16	1/17/2004
+340	1/14/2006 19:19	swansea (uk/wales)	gb	sphere	420	2/14/2006
+346	1/14/2012 03:19	doncaster (uk/england)	gb	triangle	600	1/24/2012
+348	1/14/2013 02:15	bradford (uk/england)	gb	circle	86400	2/4/2013
+350	1/15/2001 18:00	glasgow (near) (uk/scotland)	gb	other	5	7/1/2002
+351	1/15/2001 19:30	sheffield (uk/england)	gb	other	300	2/18/2001
+360	1/15/2010 17:30	stourport (uk/england)	gb	circle	10	8/7/2011
+364	1/16/2006 21:06	glasgow (uk/scotland)	gb	light	180	10/30/2006
+195	1/16/2009 18:00	blackpool (uk/england)	gb	disk	30	3/19/2009
+196	1/16/2012 18:30	worcestershire (uk/england)	gb	triangle	30	1/24/2012
+197	1/17/1987 06:30	llanelli (uk/wales)	gb	other	600	4/27/2004
+198	1/17/2002 17:45	leeds (uk/england)	gb	cigar	10	1/29/2002
+199	1/17/2003 20:50	accrington (uk/england)	gb	fireball	40	3/21/2003
+202	1/18/2009 19:35	birmingham (uk/england)	gb	light	15	3/19/2009
+203	1/18/2013 20:30	liverpool (uk/england)	gb	unknown	900	1/24/2014
+204	1/19/2000 22:30	potters bar (uk/england)	gb	formation	600	1/22/2000
+206	1/19/2001 23:35	aberdeen (uk/scotland)	gb	light	600	8/5/2001
+207	1/19/2002 06:00	norwich (east england) (uk/england)	gb	circle	600	1/29/2002
+208	1/19/2006 18:45	sheffield (uk/england)	gb	light	60	2/14/2006
+209	1/19/2006 19:21	skegness (uk/england)	gb	triangle	40	2/14/2006
+211	1/19/2012 13:30	morton (lincolnshire)(uk/england)	gb		5	2/3/2012
+470	1/2/2007 21:24	solihull (uk/england)	gb	cigar	14	2/1/2007
+471	1/2/2010 04:42	nottingham (uk/england)	gb	triangle	10	2/14/2010
+472	1/2/2010 20:15	sunderland (uk/england)	gb	changing	900	2/14/2010
+473	1/2/2014 05:20	holywell (uk/wales)	gb	flash	5	1/10/2014
+213	1/20/2001 19:40	fleetwood (uk/england)	gb	circle	600	2/18/2001
+214	1/20/2002 14:30	wolverhampton (uk/england)	gb	other	1200	8/11/2004
+215	1/20/2007 17:00	durham (uk/england)	gb	circle	120	2/1/2007
+216	1/20/2007 20:30	ramsey (isle of man) (uk/england)	gb	circle	60	2/1/2007
+217	1/20/2008 23:00	west kilbride (uk/scotland)	gb	oval	120	2/14/2008
+218	1/20/2011 15:00	millom (uk/england)	gb	sphere	12	6/27/2011
+302	1/21/1996 22:45	walsall (uk/england)	gb	circle	60	4/25/2002
+304	1/21/2007 19:30	accrington (uk/england)	gb	other	600	2/1/2007
+306	1/21/2008 18:00	nottingham (uk/england)	gb	diamond	240	1/21/2008
+479	1/22/2001 02:50	leicester (uk/england)	gb	oval	600	2/18/2001
+480	1/22/2001 09:55	manchester (uk/england)	gb	teardrop	180	2/18/2001
+481	1/22/2002 23:34	oundle (uk/england)	gb	teardrop	12	1/29/2002
+425	1/23/2002 14:10	wolverhampton (uk/england)	gb	other	900	7/16/2006
+429	1/23/2010 19:45	streetly (uk/england)	gb	light	10	2/14/2010
+430	1/23/2010 22:45	abingdon (uk/england)	gb	light	300	2/14/2010
+431	1/23/2012 20:10	bradford (west yorkshire) (uk/england)	gb	circle	60	1/24/2012
+432	1/23/2012 20:10	bradford (west yorkshire) (uk/england)	gb	circle	60	1/24/2012
+436	1/24/2000 01:10	hull (the quadrant estate) (uk/england)	gb	changing	1200	2/16/2000
+438	1/24/2003 03:20	stoke-on-trent (uk/england)	gb	disk	180	3/4/2003
+439	1/24/2003 18:35	dover (uk/england)	gb	diamond	30	3/4/2003
+440	1/24/2004 14:00	london (uk/england)	gb	triangle	120	1/31/2004
+443	1/24/2009 19:20	cirencester (uk/england)	gb	fireball	240	3/19/2009
+444	1/24/2009 23:35	norwich (uk/england)	gb	circle	60	3/19/2009
+446	1/25/2001 06:10	isle of wight (uk/england)	gb	circle	1140	2/18/2001
+447	1/25/2002 19:25	mansfield (uk/england)	gb	light	30	1/29/2002
+448	1/25/2008 00:00	plymouth (uk/england)	gb	triangle	172800	2/14/2008
+449	1/25/2009 19:00	bristol (uk/england)	gb	light	3600	3/19/2009
+508	1/26/2001 21:08	carlisle (uk/england)	gb	circle	120	2/18/2001
+509	1/26/2001 23:45	liverpool (uk/england)	gb	diamond	30	2/18/2001
+572	1/26/2008 19:20	basingstoke (uk/england)	gb	disk	30	2/14/2008
+574	1/27/2002 16:25	porthcawl (uk/wales)	gb	other	5	2/22/2002
+575	1/27/2004 18:43	peterborough (uk/england)	gb	light	12	2/12/2004
+576	1/27/2008 18:53	cheshire (uk/england)	gb	changing	20	2/14/2008
+577	1/27/2008 19:30	manchester (uk/england)	gb	changing	18000	3/19/2009
+579	1/27/2011 19:30	hunstanton (uk/england)	gb	light	900	1/31/2011
+580	1/28/1987 04:16	dunstable (uk/england)	gb	oval	14400	4/27/2004
+581	1/28/1996 21:00	peterborough (uk/england)	gb	cross	300	10/12/2001
+582	1/28/2003 14:08	london (uk/england)	gb	disk	180	3/4/2003
+585	1/28/2007 18:30	kilsyth (uk/england)	gb	light	300	2/24/2007
+589	1/29/2007 10:08	edinburgh (uk/scotland)	gb	cylinder	60	2/1/2007
+594	1/3/2001 00:00	birmingham (uk/england)	gb	unknown	120	3/29/2004
+595	1/3/2001 18:20	cambridge (uk/england)	gb	other	40	3/6/2001
+596	1/3/2001 22:00	burnley (uk/england)	gb	triangle	900	4/28/2001
+597	1/3/2003 21:00	edinburgh (uk/england)	gb	light	600	3/4/2003
+598	1/3/2006 07:30	brighton (uk/england)	gb	oval	120	2/14/2006
+599	1/3/2006 08:00	maidstone (uk/england)	gb	fireball	180	2/14/2006
+600	1/3/2006 11:30	rainham (uk/england)	gb	disk	40	2/14/2006
+601	1/3/2007 21:00	norton (uk/england)	gb	sphere	20	2/1/2007
+602	1/3/2009 20:30	gosberton (uk/england)	gb	circle	5	1/10/2009
+603	1/3/2010 19:30	whitchurch (uk/england)	gb	fireball	60	2/14/2010
+604	1/3/2011 00:35	boston (uk/england)	gb	light	40	1/31/2011
+605	1/3/2011 00:00	conwy (uk/wales)	gb	sphere	600	1/5/2011
+592	1/30/2007 23:30	london (uk/england)	gb	sphere	1200	2/1/2007
+593	1/30/2008 20:35	cumbernauld (uk/scotland)	gb	sphere	5	2/14/2008
+606	1/4/2003 22:00	northampton (uk/england)	gb	circle	2	6/18/2003
+607	1/4/2005 20:05	kidderminster (uk/england)	gb	light	360	1/11/2005
+608	1/4/2006 01:26	york (uk/england)	gb	triangle	3	2/14/2006
+609	1/4/2014 18:20	coventry (uk/england)	gb	oval	600	4/4/2014
+610	1/5/1976 21:00	folkestone (uk/england)	gb	disk	3600	5/11/2005
+611	1/6/1995 17:00	london (uk/england)	gb	fireball	40	2/18/2001
+612	1/6/1996 04:30	nottingham (uk/england)	gb	diamond	120	2/14/2010
+613	1/6/2007 22:40	halesowen (uk/england)	gb	circle	300	6/12/2007
+614	1/6/2008 02:00	whitburn (uk/england)	gb	sphere	300	6/9/2009
+615	1/6/2009 22:00	reading (berkshire) (uk/england)	gb	oval	1500	1/10/2009
+616	1/6/2010 07:18	bradford (uk/england)	gb	light	2400	2/14/2010
+617	1/7/1982 13:00	london (uk/england)	gb	sphere	900	7/16/2003
+618	1/7/2003 06:45	bangor (uk/wales) (north wales)	gb	light	900	3/21/2003
+619	1/7/2006 06:40	lyme regis (uk/england)	gb	triangle	600	2/14/2006
+620	1/7/2006 19:30	warminster (4 miles from) (uk/england)	gb	sphere	60	8/7/2007
+621	1/7/2007 18:10	lincoln (uk/england)	gb	other	30	2/1/2007
+622	1/7/2013 18:00	swansea (uk/wales)	gb	flash	10	2/4/2013
+623	1/8/1978 22:00	cardiff (uk/wales)	gb	triangle	1200	8/28/2003
+624	1/8/1997 00:00	manchester (uk/england)	gb	triangle	60	7/5/2008
+625	1/8/2004 15:05	london (uk/england)	gb	light	1200	10/27/2004
+626	1/8/2012 20:30	caterham (uk/england)	gb	other	9	3/13/2012
+627	1/9/2000 15:30	worcester (midlands) (uk/england)	gb	light	120	4/26/2000
+628	1/9/2001 22:45	stafford (uk/england)	gb	circle	60	2/18/2001
+629	1/9/2005 17:30	oldbury (uk/england)	gb	triangle	180	2/14/2006
+630	1/9/2009 19:52	portsmouth (uk/england)	gb	light	600	1/10/2009
+631	1/9/2010 17:38	oxfordshire (uk/england)	gb	fireball	30	2/14/2010
+632	1/9/2013 18:20	borehamwood (uk/england)	gb	circle	60	2/4/2013
+633	1/9/2013 23:43	clackmannanshire (forth valley) (uk/scotland)	gb	oval	3600	2/4/2013
+634	1/9/2014 21:20	london (uk/england)	gb	changing	5	1/10/2014
+120	10/1/1983 17:00	birmingham (uk/england)	gb	sphere	97836000	4/12/2013
+121	10/1/1995 21:00	taunton (near) (uk/england)	gb	light	60	1/29/2002
+122	10/1/1998 21:00	warrington (uk/england)	gb	fireball	8	7/26/2002
+123	10/1/2000 20:00	tillicoultry (central scotland) (uk/scotland)	gb	triangle	60	5/24/2005
+124	10/1/2004 23:00	dunstable (uk/england)	gb	fireball	300	10/27/2004
+125	10/1/2005 21:35	buxton (uk/england)	gb	light	240	10/11/2005
+126	10/1/2013 23:00	london (uk/england)	gb	fireball	30	10/3/2013
+106	10/10/1955 17:00	chester (uk/england)	gb	circle	20	1/21/2008
+107	10/10/1965 21:00	penarth (uk/wales)	gb	circle	180	2/14/2006
+108	10/10/1974 21:30	cardiff (uk/wales)	gb	disk	1200	2/1/2007
+109	10/10/1976 22:00	stoke mandeville (uk/england)	gb	cigar	3	12/12/2009
+110	10/10/1985 20:25	leeds (uk/england)	gb	triangle	600	3/4/2003
+111	10/10/2005 20:00	newtown (uk/wales)	gb	formation	360	5/15/2006
+112	10/10/2006 21:47	plymouth (devonshire) (uk/england)	gb	formation	120	10/30/2006
+113	10/10/2011 14:00	epsom (surrey) (uk/england)	gb	oval	300	12/12/2011
+114	10/11/2000 19:30	london (uk/england)	gb	diamond	3	12/2/2000
+115	10/11/2000 22:09	dolgellau (uk/wales)	gb	changing	240	12/20/2000
+116	10/11/2005 00:00	cannock (uk/england)	gb	formation	180	10/20/2005
+117	10/11/2005 21:50	rotherham (south yorkshire) (uk/england)	gb	oval	3600	12/16/2005
+118	10/11/2006 21:20	kidlington (uk/england)	gb	formation	5	10/30/2006
+119	10/11/2007 23:00	london (uk/england)	gb	unknown	300	3/4/2008
+127	10/12/1997 10:30	poole (uk/england)	gb	other	60	3/19/2009
+128	10/12/2001 20:30	cannock (uk/england)	gb	triangle	10	11/20/2001
+129	10/12/2002 19:45	rotherham (uk/england)	gb	light	120	10/15/2002
+130	10/12/2008 21:00	stafford (uk/england)	gb	light	60	1/10/2009
+131	10/13/1999 04:28	east kilbride (south lanarkshire) (uk/scotland)	gb	unknown	3600	11/2/1999
+132	10/13/2003 19:15	runcorn (uk/england)	gb	unknown	90	1/17/2004
+133	10/13/2004 07:19	manchester (uk/england)	gb	fireball	30	10/27/2004
+134	10/13/2005 19:10	shropshire (uk/england)	gb	light	1200	10/20/2005
+135	10/13/2007 22:30	kirkcaldy (uk/scotland)	gb	circle	600	11/28/2007
+136	10/13/2011 19:47	oldham (uk/england)	gb	oval	60	10/19/2011
+137	10/13/2012 20:30	glasgow (uk/scotland)	gb	circle	300	10/30/2012
+138	10/13/2012 22:30	seaford (uk/england)	gb	light	600	10/30/2012
+139	10/13/2012 22:30	tonbridge (uk/england)	gb	fireball	2	10/30/2012
+140	10/14/2005 03:36	llanelli (uk/england)	gb	triangle	30	10/20/2005
+141	10/14/2010 22:30	northwich (uk/england)	gb	other	180	11/21/2010
+142	10/15/1967 16:00	castleside (uk/england)	gb	cigar	300	3/11/2006
+143	10/15/1970 19:00	london (uk/england)	gb	unknown	1800	8/24/2010
+144	10/15/1988 19:30	london (uk/england)	gb	circle	240	8/5/2001
+145	10/15/1999 02:00	inverness (uk/scotland)	gb	formation	180	12/12/2009
+146	10/15/1999 00:00	sheffield (uk/england)	gb	triangle	120	4/1/2001
+147	10/15/2000 18:30	london (uk/england)	gb	light	60	12/2/2000
+148	10/15/2008 00:00	hull (uk/england)	gb	disk	420	3/19/2009
+1	10/16/2002 15:00	glasgow (uk/scotland)	gb	other	300	10/28/2002
+2	10/16/2004 00:10	northampton (uk/england)	gb	light	1800	4/27/2007
+3	10/16/2007 19:55	leeds (uk/england)	gb	fireball	300	11/28/2007
+4	10/16/2009 19:30	selby (uk/england)	gb	changing	240	12/12/2009
+5	10/17/2007 20:15	leeds (west yorkshire) (uk/england)	gb	triangle	15	3/4/2008
+6	10/17/2008 22:00	bracknell (uk/england)	gb	circle	5	1/10/2009
+7	10/17/2009 00:00	plymouth (uk/england)	gb	light	6	12/12/2009
+8	10/17/2013 18:50	wymondham (norfolk)(uk/england)	gb	other	60	10/23/2013
+9	10/18/2002 20:35	manchester (uk/england)	gb	triangle	5	10/28/2002
+10	10/18/2007 21:10	gillingham (uk/england)	gb	light	180	11/28/2007
+11	10/18/2007 23:45	manchester (uk/england)	gb	sphere	60	11/28/2007
+12	10/18/2010 15:00	ackworth (uk/england)	gb	rectangle	120	10/10/2011
+13	10/18/2012 05:50	cardiff (south wales) (uk/wales)	gb	light	3600	10/30/2012
+14	10/19/2003 19:00	fareham (uk/england)	gb	other	1	10/31/2003
+15	10/19/2005 01:30	colwyn bay (uk/wales&#44 north country)	gb	other	18000	11/3/2005
+16	10/19/2006 11:50	london (uk/england)	gb	light	180	10/30/2006
+17	10/19/2007 17:30	leamington spa (uk/england)	gb	diamond	1200	11/28/2007
+18	10/19/2012 06:20	blandford forum (uk/england)	gb	unknown	300	10/30/2012
+30	10/2/2004 21:20	bridlington (uk/england)	gb	oval	900	10/27/2004
+19	10/20/1968 19:30	fleetwood (uk/england)	gb	formation	1200	2/8/2005
+20	10/20/1997 22:00	grimsby (uk/england)	gb	egg	120	8/16/2002
+21	10/20/2000 20:20	scunthorpe (uk/england)	gb	triangle	10	12/2/2000
+22	10/20/2000 23:00	newport (uk/england)	gb	diamond	3	12/9/2000
+23	10/20/2004 06:30	castleford (uk/england)	gb	light	15	10/27/2004
+24	10/20/2005 20:51	essex (uk/england)	gb	other	120	11/3/2005
+25	10/21/1987 21:30	swansea (uk/england)	gb	triangle	1800	5/15/2006
+26	10/21/1987 21:30	swansea (uk/england)	gb	triangle	600	12/16/2005
+27	10/21/2005 13:00	bristol (uk/england)	gb	light	900	11/3/2005
+28	10/21/2007 03:20	hereford (uk/england)	gb	disk	900	11/28/2007
+29	10/21/2012 03:20	durham county (uk/england)	gb	light	600	10/30/2012
+31	10/22/2000 20:50	bridlington (uk/england)	gb	triangle	30	12/2/2000
+32	10/22/2003 21:00	cheltenham (uk/england)	gb	fireball	1800	10/31/2003
+33	10/22/2007 00:00	dundee (uk/scotland)	gb	teardrop	8	11/28/2007
+34	10/22/2008 19:25	kirkby in ashfield (uk/england)	gb	fireball	300	10/31/2008
+35	10/23/2007 20:30	burnley  (lancashire) (uk/england)	gb	fireball	180	11/28/2007
+36	10/24/2002 11:00	rotherham (uk/england)	gb	circle	2400	11/20/2002
+37	10/24/2002 21:00	cheltenham (uk/england)	gb	light	600	10/28/2002
+38	10/24/2003 22:16	lancaster (uk/england)	gb	sphere	120	11/26/2003
+39	10/24/2005 22:00	manchester (uk/england)	gb	formation	900	11/3/2005
+40	10/24/2006 21:55	hull (uk/england)	gb	triangle	30	10/30/2006
+41	10/24/2007 17:40	stevenage (uk/england)	gb	disk	120	11/28/2007
+42	10/24/2007 18:03	aldershot (uk/england)	gb	fireball	60	11/28/2007
+43	10/24/2008 00:00	salford (manchester) (uk/england)	gb	circle	60	10/31/2008
+44	10/25/2001 23:00	hamilton (uk/scotland)	gb	cigar	120	9/2/2005
+45	10/25/2011 00:30	bridgend (uk/england)	gb	sphere	3600	10/25/2011
+46	10/26/1999 21:15	newport (uk/england)	gb	oval	1295	11/2/1999
+47	10/26/2003 10:00	birmingham (uk/england)	gb	sphere	10	10/31/2003
+48	10/26/2003 21:30	bristol (uk/england)	gb	other	3	12/19/2003
+49	10/26/2006 06:30	stoke-on-trent (uk/england)	gb	sphere	1500	10/30/2006
+50	10/26/2006 19:45	northampton (uk/england)	gb	fireball	40	10/30/2006
+51	10/27/1997 19:30	stoke-on-trent (uk/england)	gb	cylinder	30	1/27/2005
+52	10/27/2002 17:00	dundee (uk/scotland)	gb	cigar	180	10/28/2002
+53	10/28/2000 20:05	brandon (county durham)(uk/england)	gb	teardrop	1080	12/9/2003
+54	10/28/2007 12:10	glasgow (uk/scotland)	gb	other	10	11/28/2007
+149	10/28/2010 19:25	bedford (uk/england)	gb	diamond	150	11/21/2010
+150	10/29/2011 18:30	herefordshire (uk/england)	gb	sphere	10	12/12/2011
+161	10/3/2006 22:00	glasgow (uk/scotland)	gb	fireball	2	10/30/2006
+151	10/30/2008 19:40	aberdeen (uk/scotland)	gb	circle	300	1/10/2009
+152	10/30/2009 20:59	heswall (uk/england)	gb	circle	60	12/12/2009
+153	10/30/2011 18:47	london (uk/england)	gb	circle	180	12/12/2011
+154	10/30/2011 20:00	warrington (uk/england)	gb	other	60	4/18/2012
+155	10/31/2004 00:04	manchester (uk/england)	gb	triangle	180	11/2/2004
+156	10/31/2006 21:59	manchester (uk/england)	gb	diamond	600	3/8/2007
+157	10/31/2007 21:30	colchester (uk/england)	gb	light	600	1/21/2008
+158	10/31/2008 09:25	london (uk/england)	gb	unknown	30	1/10/2009
+159	10/31/2008 21:50	hereford (uk/england)	gb	light	600	1/10/2009
+160	10/31/2009 23:00	birmingham (uk/england)	gb	sphere	600	12/12/2009
+162	10/4/2001 09:45	london (uk/england)	gb	disk	30	10/12/2001
+163	10/4/2002 07:20	glasgow (uk/scotland)	gb	diamond	10	12/23/2002
+164	10/4/2006 18:30	sunderland (uk/england)	gb	circle	40	10/30/2006
+165	10/4/2009 19:25	grays (uk/england)	gb	fireball	240	12/12/2009
+166	10/4/2013 20:00	ryde (uk/england)	gb	triangle	7	10/14/2013
+167	10/5/1999 22:00	newcastle (northumberland) (uk/england)	gb	triangle	90	3/17/2004
+168	10/5/2008 18:24	aberdeen (uk/scotland)	gb	circle	120	1/10/2009
+169	10/5/2013 22:00	clogher (uk/england)	gb	fireball	180	10/14/2013
+170	10/6/1999 14:00	birmingham (uk/england)	gb	oval	60	11/3/2005
+171	10/6/2004 17:57	ticknall (near derby) (uk/england)	gb	cone	40	11/9/2004
+172	10/6/2007 21:30	uckfield (uk/england)	gb	circle	600	10/8/2007
+173	10/6/2007 22:00	leamington spa (uk/england)	gb	light	2	12/12/2011
+174	10/6/2007 22:40	worthing (west sussex) (uk/england)	gb		240	4/18/2012
+175	10/7/1987 22:00	liverpool (uk/england)	gb	light	10	6/12/2008
+176	10/7/2002 16:53	huddersfield (uk/england)	gb	circle	120	10/15/2002
+177	10/7/2006 19:10	derbyshire (uk/england)	gb	fireball	300	10/30/2006
+178	10/7/2008 19:15	sheffield (uk/england)	gb	disk	180	10/31/2008
+179	10/8/2001 00:00	wigan (uk/england)	gb	triangle	180	1/17/2004
+180	10/9/1995 02:00	stirling (uk/scotland)	gb	other	240	2/18/2001
+181	10/9/1998 19:30	reading (uk/england)	gb	sphere	120	1/11/2002
+182	10/9/1998 21:00	london (uk/england)	gb	other	7200	10/28/2002
+183	10/9/2006 20:30	stoke-on-trent (uk/england)	gb	light	7200	10/30/2006
+62	11/1/1986 03:00	stoke-on-trent (uk/england)	gb	light	900	10/30/2006
+65	11/1/1993 20:00	sandy (uk/england)	gb	cigar	600	2/18/2001
+66	11/1/2001 13:00	london (uk/england)	gb	oval	600	11/20/2001
+69	11/1/2005 22:20	leicester (uk/england)	gb	circle	10	11/3/2005
+70	11/1/2008 21:20	glenrothes (uk/scotland)	gb	circle	240	1/10/2009
+72	11/1/2012 22:10	leighton buzzard (uk/england)	gb	sphere	300	11/19/2012
+194	11/10/1967 08:30	liverpool (uk/england)	gb	cylinder	300	2/18/2001
+55	11/11/1996 23:00	york (uk/england)	gb	light	300	9/2/2005
+56	11/11/2001 23:30	grimsby (uk/england)	gb	light	1800	3/19/2002
+57	11/11/2002 18:40	wolverhampton (uk/england)	gb	formation	300	11/16/2002
+58	11/11/2003 21:00	chesterfield (uk/england)	gb	fireball	20	11/26/2003
+59	11/11/2007 18:40	southport (uk/england)	gb	formation	300	11/28/2007
+60	11/11/2012 19:30	macclesfield (uk/england)	gb	circle	60	11/19/2012
+73	11/12/2000 17:00	kent (uk/england)	gb	triangle	600	12/2/2000
+74	11/12/2001 00:00	london (uk/england)	gb	unknown	2	11/20/2001
+75	11/12/2002 23:00	lincolnshire (uk/england)	gb	circle	900	12/23/2002
+76	11/12/2005 00:00	glasgow (uk/scotland)	gb	light	300	12/16/2005
+77	11/12/2007 22:57	solihull (uk/england)	gb	formation	2	3/4/2008
+78	11/12/2010 19:05	tamworth (uk/england)	gb	unknown	300	11/21/2010
+79	11/12/2011 22:45	alton (hampshire) (uk/england)	gb	light	20	12/12/2011
+80	11/13/2010 19:50	birmingham (uk/england)	gb	light	60	11/21/2010
+81	11/13/2011 19:39	birmingham (uk/england)	gb	sphere	159	12/12/2011
+82	11/14/2001 19:20	burnley (uk/england)	gb	triangle	8	11/20/2001
+83	11/14/2003 18:00	haslingden (uk/england)	gb	rectangle	20	11/26/2003
+84	11/14/2008 18:23	warwickshire (uk/england)	gb	fireball	30	1/10/2009
+85	11/14/2008 20:00	lincoln (uk/england)	gb	sphere	2	1/10/2009
+86	11/14/2008 22:00	birmingham (uk/england)	gb	circle	180	8/5/2009
+87	11/14/2009 23:00	leicester (uk/england)	gb	fireball	60	12/12/2009
+88	11/15/1962 23:00	cardiff (uk/wales)	gb	disk	300	6/12/2008
+89	11/15/1997 19:00	northampton (uk/england)	gb	unknown	5	9/2/2005
+90	11/15/1998 13:00	london (eastham) (uk/england)	gb	rectangle	240	1/11/2002
+91	11/15/1999 02:00	elgin (uk/scotland)	gb	light	30	2/18/2001
+92	11/15/2000 23:48	newmarket (uk/england)	gb	diamond	1200	8/20/2001
+93	11/15/2001 01:15	london (uk/england)	gb	triangle	480	12/5/2001
+94	11/15/2001 22:00	bristol (uk/england)	gb	rectangle	180	11/20/2001
+95	11/15/2001 22:00	darlington (uk/england)	gb	light	10	10/7/2003
+96	11/15/2002 00:02	walsall (uk/england)	gb	light	2	11/16/2002
+97	11/15/2002 01:03	coventry (uk/england)	gb	light	1	11/16/2002
+98	11/15/2003 21:00	bournemouth (uk/england)	gb	egg	90	7/5/2005
+99	11/15/2004 22:00	london (uk/england)	gb	circle	180	9/2/2005
+100	11/15/2005 17:30	swansea (uk/wales)	gb	sphere	600	12/16/2005
+101	11/16/2003 18:00	wakefield (uk/england)	gb	light	600	12/9/2003
+102	11/16/2007 19:35	skelmersdale (uk/england)	gb	light	180	11/28/2007
+103	11/17/2002 19:30	birmingham (uk/england)	gb	unknown	10	2/8/2005
+104	11/17/2005 17:25	bicester (uk/england)	gb	unknown	60	12/16/2005
+105	11/17/2006 18:25	trowbridge (uk/england)	gb	circle	600	12/7/2006
+234	11/17/2012 21:00	cumnock (uk/scotland)	gb	circle	1800	11/19/2012
+235	11/18/2004 19:00	thankerton (uk/scotland)	gb	unknown	120	12/3/2004
+236	11/18/2005 19:22	sunderland (uk/england)	gb	light	30	12/16/2005
+237	11/18/2005 20:00	county durham (uk/england)	gb	light	1800	12/16/2005
+238	11/18/2006 23:30	brighton (uk/england)	gb	light	300	12/7/2006
+239	11/18/2012 19:40	guildford (uk/england)	gb	flash	300	11/19/2012
+240	11/18/2012 22:55	orpington (uk/england)	gb	other	300	11/19/2012
+241	11/19/2005 21:00	london (uk/england)	gb	light	120	12/16/2005
+242	11/19/2008 17:45	murton (uk/england)	gb	triangle	15	1/10/2009
+243	11/19/2009 16:30	dover (uk/england)	gb	cigar	300	12/12/2009
+282	11/2/2000 18:40	billericay (uk/england)	gb	oval	2	2/18/2001
+283	11/2/2001 22:44	london (uk/england)	gb	triangle	180	11/20/2001
+284	11/2/2005 11:00	polegate (uk/england)	gb	oval	240	11/3/2005
+287	11/2/2008 09:15	london (uk/england)	gb	changing	300	1/10/2009
+276	11/20/1998 21:45	launceston (uk/england)	gb	disk	600	2/18/2001
+277	11/20/2005 20:15	essex (uk/england)	gb	light	600	12/16/2005
+278	11/20/2008 20:10	rochester (kent) (uk/england)	gb	sphere	180	5/12/2009
+279	11/20/2009 23:00	boston (uk/england)	gb	rectangle	1200	12/12/2009
+280	11/21/2004 10:14	london (heathrow&#44 cranford) (uk/england)	gb	light	600	12/3/2004
+281	11/21/2006 17:00	newmarket (uk/england)	gb	other	30	12/7/2006
+289	11/22/2003 00:00	burnley (uk/england)	gb	sphere	3	12/9/2003
+290	11/22/2003 20:50	fleetwood (lancashire) (uk/england)	gb	circle	600	11/26/2003
+291	11/22/2007 21:20	nottingham (uk/england)	gb	triangle	900	11/28/2007
+292	11/22/2008 19:04	oxford (uk/england)	gb	circle	120	1/10/2009
+293	11/22/2009 18:05	liverpool (uk/england)	gb	oval	40	12/12/2009
+294	11/22/2013 21:15	glasgow (uk/scotland)	gb	changing	7200	12/2/2013
+295	11/23/1993 03:00	essex (uk/england)	gb	triangle	180	9/2/2005
+296	11/23/2006 23:20	newcastle (uk/england)	gb	sphere	30	12/7/2006
+297	11/23/2013 21:20	glasgow (uk/scotland)	gb	changing	3600	12/2/2013
+298	11/24/2000 23:30	slough (uk/england)	gb	light	5	12/2/2000
+299	11/24/2002 20:00	manchester (uk/england)	gb	fireball	300	7/16/2003
+300	11/24/2006 08:49	kirkcaldy (uk/scotland)	gb	light	3600	12/7/2006
+301	11/24/2006 17:30	london (uk/england)	gb	flash	2	12/7/2006
+308	11/25/2000 01:00	chelmsford (uk/england)	gb	diamond	30	12/2/2000
+309	11/25/2006 02:30	norwich (norfold) (uk/england)	gb	disk	90	12/7/2006
+310	11/25/2006 07:37	nottingham (uk/england)	gb	flash	60	12/7/2006
+311	11/25/2006 20:16	stevenage (uk/england)	gb	triangle	240	12/7/2006
+312	11/26/2002 18:00	derbyshire (uk/england)	gb	light	120	12/23/2002
+313	11/26/2006 15:00	llandudno (uk/wales)	gb	cigar	60	12/7/2006
+314	11/26/2007 22:00	aberdeen (uk/scotland)	gb	other	3600	11/28/2007
+315	11/26/2009 18:00	leicester (uk/england)	gb	triangle	360	12/12/2009
+316	11/27/2001 20:00	london (uk/england)	gb	egg	1800	12/5/2001
+317	11/27/2004 00:00	dunstable (uk/england)	gb	disk	600	12/3/2004
+318	11/27/2005 02:30	manchester (uk/england)	gb	cross	1800	12/16/2005
+319	11/27/2005 03:00	lichfield (uk/england)	gb	light	120	12/16/2005
+320	11/27/2010 19:53	chawton (a village) (hampshire) (uk/england)	gb	light	60	1/5/2011
+321	11/28/2001 12:30	shepton mallet (uk/england)	gb	sphere	20	12/5/2001
+322	11/29/2005 20:56	sheffield (uk/england)	gb	other	9	12/16/2005
+323	11/29/2005 00:00	huntingdon (cambridgeshire) (uk/england)	gb	diamond	900	12/16/2005
+329	11/3/2007 19:30	birmingham (uk/england)	gb	circle	300	11/28/2007
+324	11/30/2003 12:25	nottingham (uk/england)	gb	egg	240	12/9/2003
+332	11/4/1979 16:00	milford haven (uk/england)	gb	circle	3600	7/16/2006
+336	11/4/2004 19:30	marlborough (uk/england)	gb	sphere	180	11/9/2004
+337	11/4/2005 22:35	nottinghamshire (uk/england)	gb	fireball	3	11/8/2005
+338	11/4/2006 19:00	swindon (uk/england)	gb	cigar	14400	12/7/2006
+339	11/4/2006 19:00	swindon (uk/england)	gb	cigar	14400	12/7/2006
+341	11/4/2006 19:56	grimsby (uk/england)	gb	light	300	12/7/2006
+342	11/4/2006 20:00	swindon (uk/england)	gb	triangle	30	12/7/2006
+343	11/4/2006 21:44	coventry (uk/england)	gb	light	240	12/7/2006
+344	11/4/2006 21:45	coventry (uk/england)	gb	circle	300	12/7/2006
+345	11/4/2009 09:00	london (uk/england)	gb	sphere	240	2/14/2010
+347	11/4/2012 19:10	cheshire (uk/england)	gb	sphere	40	11/4/2012
+349	11/4/2013 20:00	bracknell (uk/england)	gb	light	20	11/20/2013
+352	11/5/2002 13:30	london (uk/england)	gb	cross	120	5/15/2006
+353	11/5/2003 18:45	huddersfield (uk/england)	gb	triangle	120	11/26/2003
+354	11/5/2003 22:36	dunstable (uk/england)	gb	cigar	420	12/19/2003
+355	11/5/2006 19:10	westbury (uk/england)	gb	light	300	12/14/2006
+356	11/5/2006 19:15	chesterfield (uk england)	gb	light	600	12/7/2006
+357	11/5/2009 18:20	birmingham (uk/england)	gb	egg	60	12/12/2009
+358	11/5/2009 20:50	carmarthenshire (uk/wales)	gb	sphere	1200	12/12/2009
+359	11/5/2009 22:00	dagenham (uk/england)	gb	fireball	90	4/13/2010
+361	11/5/2012 20:30	london (uk/england)	gb	circle	60	11/19/2012
+362	11/5/2013 16:30	norwich (norfolk)(uk/england)	gb	oval	5	11/11/2013
+363	11/6/1998 19:00	bath (uk/england)	gb	light	10	11/19/1998
+200	11/7/2004 02:13	shropshire (uk/england)	gb	teardrop	1200	7/15/2005
+201	11/7/2008 21:00	abercarn (uk/wales)	gb	light	600	1/10/2009
+205	11/9/2001 20:30	slough (uk/england)	gb	formation	10	11/20/2001
+210	11/9/2008 23:15	rugeley (uk/england)	gb	light	180	1/10/2009
+212	11/9/2013 11:35	kirkcaldy (uk/scotland)	gb	formation	360	11/11/2013
+233	12/1/1951 19:00	crewe (uk/england)	gb	cigar	15	3/19/2002
+303	12/1/2001 22:35	horsham (uk/england)	gb	fireball	20	12/5/2001
+305	12/1/2008 04:05	birkenhead (uk/england)	gb	diamond	8	1/10/2009
+307	12/1/2012 17:10	lancashire (uk/england)	gb	sphere	60	12/20/2012
+219	12/10/2007 19:30	leven (uk/scotland)	gb	fireball	900	3/4/2008
+220	12/10/2008 02:00	leicester (uk/england)	gb	disk	30	3/19/2009
+221	12/10/2013 02:55	bristol (uk/england)	gb	disk	900	12/12/2013
+222	12/11/1980 23:45	birmingham (uk/england)	gb	other	300	9/2/2005
+223	12/11/1992 22:00	st. andrews (uk/scotland)	gb	sphere	600	1/17/2004
+224	12/11/2000 15:20	grantham (uk/england)	gb		60	12/20/2000
+225	12/11/2001 22:50	north yorkshire (uk/england)	gb	light	10	1/11/2002
+226	12/11/2002 20:56	leeds (uk/england)	gb	light	15	12/23/2002
+227	12/11/2003 16:00	cardiff (uk/wales)	gb	light	2700	12/19/2003
+228	12/11/2006 22:50	birmingham (uk/england)	gb	egg	2	12/14/2006
+229	12/11/2006 22:55	birmingham (uk/england)	gb	light	5	12/14/2006
+230	12/11/2006 22:58	doncaster (uk/england)	gb	light	5	2/4/2013
+231	12/11/2006 23:15	birmingham (uk/england)	gb	flash	10	12/14/2006
+232	12/11/2012 20:00	durham (uk/england)	gb	other	360	2/4/2013
+365	12/12/2001 18:07	carlisle (uk/england)	gb	unknown	30	1/11/2002
+366	12/12/2002 06:00	somerset (uk/england)	gb	disk	1560	3/4/2003
+367	12/12/2002 22:20	maidstone (uk/england)	gb	teardrop	300	12/23/2002
+368	12/12/2006 18:00	coatbridge (uk/scotland)	gb	oval	5	12/14/2006
+369	12/12/2006 23:00	coatbridge (uk/scotland)	gb	circle	3	2/24/2007
+370	12/12/2008 21:29	manchester (uk/england)	gb	sphere	45	1/10/2009
+371	12/12/2011 11:09	bristol (avon) (uk/england)	gb	sphere	60	12/17/2011
+372	12/13/1998 02:00	ashburton (uk/england)	gb	cigar	120	5/24/2005
+373	12/13/2001 15:25	cardiff (uk/wales)	gb	other	60	1/11/2002
+450	12/13/2009 17:38	ellesmere port (uk/england)	gb	diamond	240	2/14/2010
+451	12/14/2003 23:00	newport (uk/wales)	gb	light	15	12/19/2003
+452	12/14/2010 22:10	london (uk/england)	gb	light	3	1/5/2011
+453	12/14/2011 00:00	manchester (uk/england)	gb	fireball	3	12/17/2011
+454	12/15/2003 23:00	dunstable (uk/england)	gb	unknown	900	12/19/2003
+455	12/15/2003 23:50	coventry (uk/england)	gb	light	2	12/19/2003
+456	12/15/2005 07:30	scarborough (uk/england)	gb	oval	8	5/15/2006
+457	12/15/2007 19:10	london (uk/england)	gb	other	600	1/21/2008
+458	12/15/2008 18:09	derby (uk/england)	gb	circle	300	1/10/2009
+459	12/15/2010 18:15	uplyme (uk/england)	gb	circle	300	1/5/2011
+460	12/15/2012 03:13	darwen (uk/england)	gb	light	1	12/20/2012
+461	12/16/1972 22:30	gravesend (uk/england)	gb	triangle	20	9/2/2005
+462	12/17/2001 18:40	addlestone (uk/england)	gb	formation	60	1/11/2002
+463	12/17/2002 22:56	congerstone (uk/england)	gb	diamond	600	12/23/2002
+464	12/18/2000 12:30	london (uk/england)	gb	light	180	12/20/2000
+465	12/18/2007 23:30	helmsley (uk/england)	gb	light	30	6/12/2008
+466	12/19/2002 06:20	london (uk/england)	gb	diamond	10	3/4/2003
+467	12/19/2002 06:30	ystradgynlais (uk/wales)	gb	teardrop	20	12/23/2002
+468	12/19/2004 18:00	brighton (uk/england)	gb	light	60	1/11/2005
+469	12/19/2005 22:40	birmingham (uk/england)	gb	circle	240	2/14/2006
+482	12/2/2003 23:00	liverpool (uk/england)	gb	unknown	900	12/9/2003
+483	12/2/2005 18:35	gloucester (uk/england)	gb	light	60	12/16/2005
+484	12/2/2007 04:35	bridgewater (uk/england)	gb	disk	2	6/12/2008
+474	12/20/2000 23:15	whaley bridge (uk/england)	gb	other	120	3/16/2001
+475	12/20/2003 20:40	manchester (uk/england)	gb	diamond	120	4/13/2010
+476	12/20/2006 23:00	liverpool (uk/england)	gb	disk	1800	2/1/2007
+477	12/20/2006 00:00	stockport (uk/england)	gb	diamond	60	2/1/2007
+478	12/20/2008 23:30	haywards heath (uk/england)	gb		600	3/19/2009
+485	12/22/2003 02:30	edinburgh (uk/scotland)	gb	light	300	1/17/2004
+486	12/22/2003 17:56	gloucester (uk/england)	gb	sphere	60	1/17/2004
+487	12/22/2004 21:00	birmingham (uk/england)	gb	flash	3	1/11/2005
+488	12/22/2004 00:00	oxford (uk/england)	gb	cigar	240	1/11/2005
+489	12/22/2008 18:07	mablethorpe (uk/england)	gb	light	240	1/10/2009
+490	12/22/2009 04:01	oldham (uk/england)	gb	triangle	5	2/14/2010
+491	12/23/2005 19:40	worcester (uk/england)	gb	light	3	2/14/2006
+492	12/23/2005 20:30	birmingham (uk/england)	gb	triangle	60	2/14/2006
+493	12/23/2008 17:11	harwich (uk/england)	gb	fireball	120	1/10/2009
+494	12/23/2008 21:20	north shields (uk/england)	gb	circle	30	1/10/2009
+495	12/23/2010 19:30	southport (uk/england)	gb	triangle	3600	1/31/2011
+496	12/23/2011 19:45	rotherham (uk/england)	gb	other	60	1/12/2012
+497	12/24/1997 20:08	watford (uk/england)	gb	circle	5	2/16/2000
+498	12/24/2002 05:25	doncaster (uk/england)	gb	circle	180	3/4/2003
+499	12/24/2008 20:00	uddingston (uk/scotland)	gb	circle	300	1/10/2009
+500	12/24/2009 18:30	bath (uk/england)	gb	other	30	2/14/2010
+501	12/24/2009 19:06	consett (durham co.) (uk/england)	gb	fireball	180	2/14/2010
+502	12/24/2009 21:05	greenock (uk/scotland)	gb	light	60	2/14/2010
+503	12/24/2009 23:01	glasgow (uk/scotland)	gb	triangle	300	2/14/2010
+504	12/24/2013 02:30	dartmouth (uk/england)	gb	flash	3	1/10/2014
+505	12/25/1996 19:00	london (uk/england)	gb	light	120	4/13/2010
+374	12/25/1998 16:00	haltwhistle (near) (uk/england)	gb	light	300	1/17/2004
+375	12/25/2001 22:10	hartlepool (uk/england)	gb	unknown	600	6/12/2002
+376	12/25/2002 00:00	london (uk/england)	gb	diamond	300	3/4/2003
+377	12/25/2005 04:28	horsham (uk/england)	gb	unknown	30	2/14/2006
+378	12/25/2008 18:15	london (uk/england)	gb	light	120	1/10/2009
+379	12/25/2008 19:10	midgham (uk/england)	gb	other	120	1/10/2009
+380	12/25/2008 19:45	taunton (uk/england)	gb	oval	120	1/10/2009
+381	12/25/2008 20:00	st. andrews (uk/scotland)	gb	light	240	3/19/2009
+382	12/25/2009 17:30	birmingham (uk/england)	gb	triangle	120	2/14/2010
+383	12/25/2010 18:50	coventry (uk/england)	gb	light	5	1/5/2011
+384	12/25/2010 20:00	glasgow (uk/scotland)	gb	sphere	3600	11/19/2012
+385	12/25/2010 20:00	nottingham (uk/england)	gb	circle	180	1/5/2011
+386	12/25/2012 20:00	raunds (uk/england)	gb	circle	30	2/4/2013
+387	12/25/2012 20:45	alford (aberdeenshire)(uk/scotland)	gb		600	2/4/2013
+388	12/26/2002 06:55	london (south east) (uk/england)	gb	light	600	3/4/2003
+389	12/26/2002 07:05	manchester (uk/england)	gb	other	5	3/4/2003
+390	12/26/2006 19:20	glasgow (uk/scotland)	gb	light	120	2/1/2007
+391	12/26/2008 17:30	gloucestershire (uk/england)	gb	sphere	480	1/10/2009
+392	12/26/2008 21:15	reading (uk/england)	gb	fireball	180	3/19/2009
+393	12/26/2009 20:00	bedford (uk/england)	gb	egg	120	2/14/2010
+394	12/26/2009 21:15	dundee (uk/scotland)	gb	fireball	900	2/14/2010
+395	12/27/2000 22:35	leeds (uk/england)	gb	disk	6	1/3/2001
+396	12/27/2006 20:00	bishops castle (uk/england)	gb	sphere	300	2/1/2007
+397	12/27/2007 21:25	hull (uk/england)	gb	light	300	3/4/2008
+398	12/27/2008 00:00	southampton (uk/england)	gb	circle	4	1/10/2009
+399	12/28/2002 19:10	stoke-on-trent (uk/england)	gb	formation	4	3/4/2003
+400	12/28/2005 17:30	lancashire (uk/england)	gb	circle	7200	2/14/2006
+401	12/28/2006 23:00	nottingham (uk/england)	gb	sphere	300	2/1/2007
+402	12/28/2008 10:30	harrogate (uk/england)	gb	oval	900	1/10/2009
+403	12/28/2008 19:30	birmingham (uk/england)	gb	oval	60	1/10/2009
+404	12/28/2009 01:25	blackburn (uk/england)	gb	light	60	2/14/2010
+405	12/28/2013 18:40	harrogate (uk/england)	gb	triangle	10	1/10/2014
+406	12/29/1994 01:15	halifax (uk/england)	gb	sphere	30	2/18/2001
+407	12/29/2003 19:00	liverpool (uk/england)	gb	circle	300	1/17/2004
+408	12/29/2006 00:53	london (uk/england)	gb	egg	15	2/1/2007
+409	12/29/2007 23:10	west sussex (uk/england)	gb	fireball	30	3/4/2008
+410	12/29/2009 20:00	kilmartin (uk/scotland)	gb	light	2	2/14/2010
+411	12/29/2009 23:20	middlesbrough (uk/england)	gb	fireball	60	2/14/2010
+424	12/3/2000 23:30	new forest (uk/england)	gb	cigar	60	12/9/2000
+426	12/3/2002 23:30	llandrindod wells (uk/wales)	gb	fireball	45	12/23/2002
+427	12/3/2006 20:13	aylesbury (uk/england)	gb	oval	180	2/1/2007
+428	12/3/2009 03:00	manchester (uk/england)	gb	triangle	240	2/14/2010
+412	12/30/2002 10:00	london (uk/england)	gb	unknown	300	8/11/2004
+413	12/30/2008 17:45	littlehampton (uk/england)	gb	light	180	1/10/2009
+414	12/31/2001 09:00	leeds (uk/england)	gb	teardrop	180	1/11/2002
+415	12/31/2004 01:00	dunstable (uk/england)	gb	cone	900	1/11/2005
+416	12/31/2007 00:20	aldershot (uk/england)	gb	disk	240	2/14/2008
+417	12/31/2008 22:00	london (uk/england)	gb	light	300	1/10/2009
+418	12/31/2009 00:13	swindon (uk/england)	gb	circle	840	2/14/2010
+419	12/31/2009 19:30	troon (uk/scotland)	gb	circle	600	2/14/2010
+420	12/31/2009 19:55	macclesfield (uk/england)	gb	unknown	120	2/14/2010
+421	12/31/2009 22:15	preston (uk/england)	gb	light	60	2/14/2010
+422	12/31/2012 21:00	rotherham (uk/england)	gb	light	300	2/4/2013
+423	12/31/2012 22:30	douglas (isle of man) (uk/england)	gb	light	120	2/4/2013
+433	12/4/1976 14:00	hull (uk/england)	gb	egg	1200	12/7/2006
+434	12/4/1979 20:00	burnley (uk/england)	gb	teardrop	120	9/15/2005
+435	12/4/1999 04:45	glasgow (uk/scotland)	gb	light	120	12/2/2013
+437	12/4/2002 18:00	west molesey (uk/england)	gb	light	180	12/23/2002
+441	12/4/2004 00:00	leicester (uk/england)	gb	light	25	12/14/2004
+442	12/4/2008 12:00	milton (near banbury) (uk/england)	gb	circle	180	1/10/2009
+445	12/4/2011 02:00	seaton (uk/england)	gb	unknown	1800	12/12/2011
+506	12/6/1997 01:45	birkenhead (uk/england)	gb	other	9	12/9/2003
+507	12/6/2000 21:30	sunderland (uk/england)	gb	triangle	300	12/20/2000
+510	12/6/2007 17:30	shropshire (uk/england)	gb	cigar	10	3/4/2008
+573	12/7/1998 16:10	alloa (uk/scotland)	gb	oval	300	5/14/2002
+578	12/7/2008 19:45	runcorn (uk/england)	gb	fireball	90	1/10/2009
+583	12/8/2005 00:30	blackpool (uk/england)	gb	disk	420	2/24/2007
+584	12/8/2005 03:00	birmingham (uk/england)	gb	changing	3600	12/16/2005
+586	12/8/2009 19:00	great yarmouth (uk/england)	gb	light	180	12/12/2009
+587	12/9/2005 15:30	london (uk/england)	gb	other	30	7/16/2006
+588	12/9/2007 05:50	london (uk/england)	gb	light	10	3/4/2008
+590	12/9/2010 19:10	reading (uk/england)	gb	light	240	1/5/2011
+591	12/9/2013 20:30	london (uk/england)	gb	fireball	180	12/12/2013
+524	2/1/1997 18:30	sunderland (uk/england)	gb	light	900	8/5/2001
+525	2/1/2003 18:00	doncaster (uk/england)	gb	fireball	1090	3/21/2003
+526	2/1/2007 17:30	london (uk/england)	gb	circle	300	2/1/2007
+511	2/10/2005 00:00	arbroath (uk/scotland)	gb	circle	600	10/11/2005
+512	2/10/2008 02:00	maidenhead (uk/england)	gb	light	3600	2/14/2008
+513	2/10/2008 12:35	london (uk/england)	gb	circle	360	2/14/2008
+514	2/10/2009 18:22	barnet (uk/england)	gb	triangle	420	3/19/2009
+515	2/10/2009 19:20	gwent (uk/wales)	gb	circle	600	3/19/2009
+516	2/10/2009 20:00	liverpool (uk/england)	gb	circle	480	3/19/2009
+517	2/10/2009 21:50	birmingham (uk/england)	gb	fireball	300	3/19/2009
+518	2/10/2010 19:45	sunderland (uk/england)	gb	flash	600	4/13/2010
+519	2/10/2012 19:52	burgess hill (uk/england)	gb	cone	10	2/10/2012
+520	2/10/2014 21:30	christchurch (uk/england)	gb	other	172800	2/21/2014
+521	2/11/2001 22:30	st. albans (uk/england)	gb	formation	300	3/6/2001
+522	2/11/2008 18:30	wolverhampton (uk/england)	gb	light	60	2/14/2008
+523	2/11/2012 21:05	london (uk/england)	gb	circle	300	11/4/2012
+527	2/12/2001 18:30	glasgow (uk/scotland)	gb	disk	180	3/6/2001
+528	2/12/2003 02:30	slough (uk/england)	gb	light	600	3/4/2003
+529	2/12/2004 00:43	newcastle upon tyne (uk/england)	gb	cigar	25	3/2/2004
+530	2/12/2005 08:30	london (uk/england)	gb	cigar	5	2/22/2005
+531	2/12/2006 19:30	kingston upon hull (uk/england)	gb	unknown	30	5/15/2006
+532	2/12/2008 11:20	luton (uk/england)	gb	light	900	2/14/2008
+533	2/12/2012 00:30	larkhall (uk/scotland)	gb	circle	300	3/13/2012
+534	2/13/2004 03:00	chelmsford (uk/england)	gb	oval	600	3/2/2004
+535	2/13/2010 00:00	london (uk/england)	gb	light	120	2/14/2010
+536	2/13/2010 19:30	watford (hertfordshire) (uk/england)	gb	fireball	180	2/14/2010
+537	2/13/2010 23:55	coggeshall (uk/england)	gb	light	180	2/14/2010
+538	2/14/2000 15:34	todmorden (uk/england)	gb	light	60	2/18/2001
+539	2/14/2002 02:00	bradford (uk/england)	gb	flash	3600	7/26/2002
+540	2/14/2002 22:36	stroud (uk/england)	gb	disk	300	8/1/2003
+541	2/14/2004 21:00	glasgow (uk/scotland)	gb	circle	120	3/17/2004
+542	2/14/2006 19:28	lancashire (uk/england)	gb	sphere	120	3/11/2006
+543	2/14/2009 21:48	grimsby (uk/england)	gb	fireball	300	3/19/2009
+544	2/15/1955 21:55	welwyn garden city (uk/england)	gb	fireball	1200	2/14/2010
+545	2/15/1996 19:30	glasgow (uk/scotland)	gb	circle	600	5/15/2006
+546	2/15/2003 07:45	leicester (uk/england)	gb	light	10	3/4/2003
+547	2/15/2003 20:30	birmingham (uk/england)	gb	flash	7200	2/25/2003
+548	2/15/2009 18:15	bedford (uk/england)	gb	light	240	3/19/2009
+549	2/15/2009 20:00	penzance (cornwall) (uk/england)	gb	circle	300	3/19/2009
+550	2/15/2009 20:00	stafford (uk/england)	gb	disk	145	3/19/2009
+551	2/16/2000 22:00	glasgow (ayrshire) (uk/scotland)	gb	light	120	11/28/2007
+552	2/16/2001 18:20	nottingham (uk/england)	gb	light	2400	2/24/2001
+553	2/16/2001 18:30	willerby (near hull) (uk/england)	gb	light	600	2/18/2001
+554	2/16/2001 20:20	aberdeen (uk/scotland)	gb	light	300	8/5/2001
+555	2/16/2006 23:45	norwich (uk/england)	gb	other	60	10/30/2006
+556	2/16/2008 19:00	kendal (uk/england)	gb	light	30	3/4/2008
+557	2/17/2006 05:48	great yarmouth (uk/england)	gb	light	120	3/11/2006
+558	2/17/2008 17:00	wigan (uk/england)	gb	cylinder	300	3/31/2008
+559	2/18/2009 22:00	hastings (uk/england)	gb	circle	1200	3/19/2009
+560	2/18/2011 22:50	london (uk/england)	gb	fireball	240	2/18/2011
+561	2/18/2013 21:25	bradford (west yorkshire) (uk/england)	gb	circle	600	2/28/2013
+562	2/18/2014 18:45	torquay (uk/england)	gb	other	600	2/21/2014
+563	2/19/2000 23:00	swansea (uk/wales)	gb	other	420	5/15/2006
+564	2/19/2006 23:45	london (uk/england)	gb	light	5	3/11/2006
+565	2/19/2011 13:57	chawton (village)(hampshire) (uk/england)	gb	light	30	2/23/2011
+566	2/19/2012 21:50	bridlington (e. riding) (uk/england)	gb	fireball	240	3/13/2012
+571	2/2/1996 20:00	inverkeithing (uk/scotland)	gb	triangle	7200	7/16/2003
+635	2/2/2001 19:20	hull (uk/england)	gb	circle	120	2/18/2001
+636	2/2/2008 14:40	london (uk/england)	gb	diamond	1500	2/14/2008
+637	2/2/2014 07:02	rothwell (uk/england)	gb	oval	180	2/7/2014
+638	2/2/2014 22:00	birmingham (uk/endland)	gb	circle	2	2/7/2014
+567	2/20/2009 20:00	derbyshire (uk/england)	gb	circle	360	3/19/2009
+568	2/21/2001 03:00	surrey (uk/england)	gb	flash	120	9/4/2003
+569	2/21/2006 20:05	sheffield (uk/england)	gb	circle	5	3/11/2006
+570	2/21/2010 18:30	ayrshire (uk/scotland)	gb	sphere	60	4/13/2010
+696	2/23/2003 06:30	oswestry (uk/england)	gb	egg	60	12/9/2003
+697	2/23/2004 13:45	blackburn (uk/england)	gb	cigar	600	3/2/2004
+698	2/24/2000 21:55	hebden bridge (uk/england)	gb	teardrop	90	2/27/2000
+699	2/25/2004 23:20	nottingham (uk/england)	gb	diamond	1320	3/2/2004
+700	2/25/2010 22:35	tenbury wells (uk/england)	gb	triangle	120	4/13/2010
+701	2/26/1997 19:00	london (uk/england)	gb	light	180	3/7/1998
+702	2/26/2007 18:30	falkirk (uk/scotland)	gb	light	900	3/8/2007
+703	2/26/2009 20:20	hengoed (uk/england)	gb	triangle	480	4/14/2009
+704	2/26/2011 20:00	doncaster (uk/england)	gb	formation	15	3/10/2011
+705	2/26/2014 18:30	macclesfield (cheshire) (uk/england)	gb	other	10	2/27/2014
+706	2/27/2003 07:00	somerset (uk/england)	gb	cigar	15	3/11/2006
+707	2/27/2010 22:34	fairford (uk/england)	gb	circle	300	4/13/2010
+708	2/28/2001 05:00	glasgow (uk/scotland)	gb	cone	1200	4/28/2001
+709	2/28/2001 23:50	caldicot (uk/wales)	gb	flash	300	6/12/2002
+710	2/28/2002 22:30	liverpool (uk/england)	gb	triangle	60	3/19/2002
+711	2/28/2006 06:34	oxford (uk/england)	gb	formation	2040	3/11/2006
+712	2/29/2004 16:00	blackpool (uk/england)	gb	changing	600	3/2/2004
+713	2/3/2002 07:00	inverness (uk/scotland)	gb	formation	30	3/19/2002
+714	2/3/2007 20:20	london (uk/england)	gb	light	45	2/24/2007
+715	2/3/2007 20:32	reading (uk/england)	gb	disk	180	2/24/2007
+716	2/3/2007 23:00	exeter (uk/england)	gb	unknown	20	2/24/2007
+717	2/3/2008 13:30	holywell (uk/wales)	gb	cylinder	1200	3/4/2008
+718	2/3/2012 07:00	leven (uk/england)	gb	cigar	180	2/3/2012
+719	2/4/2002 06:55	aberdeen (uk/scotland)	gb	other	10	4/8/2002
+720	2/4/2009 23:15	reading (uk/england)	gb	sphere	180	4/14/2009
+721	2/5/2006 13:50	manchester (uk/england)	gb	other	120	2/14/2006
+722	2/6/1980 20:22	derby (uk/england)	gb	egg	3.5	3/11/2006
+723	2/6/2001 22:50	carlisle (uk/england)	gb	disk	900	8/5/2001
+724	2/6/2002 20:05	bristol (uk/england)	gb	unknown	120	2/5/2003
+725	2/6/2002 21:45	oakham (uk/england)	gb	triangle	240	2/22/2002
+726	2/6/2002 22:45	glasgow (near) (uk/scotland)	gb		900	12/23/2002
+727	2/6/2002 23:10	london (uk/england)	gb	circle	3	2/22/2002
+728	2/6/2004 22:50	egham (uk/england)	gb	light	300	2/12/2004
+729	2/6/2006 04:30	woodford green (uk/england)	gb	other	1800	5/15/2006
+730	2/6/2008 23:40	durham (uk/england)	gb	diamond	120	2/14/2008
+731	2/6/2010 23:30	skegness (uk/england)	gb	light	120	2/14/2010
+732	2/7/1990 11:00	york (uk/england)	gb	cylinder	60	8/5/2001
+733	2/7/2001 20:50	manchester (uk/england)	gb	light	45	2/18/2001
+734	2/7/2001 22:24	liverpool (uk/england)	gb	changing	720	2/18/2001
+735	2/7/2004 01:00	london (uk/england)	gb	diamond	2100	2/12/2004
+736	2/7/2005 14:00	hanworth (middlesex) (uk/england)	gb	oval	3600	8/12/2008
+737	2/7/2005 23:40	nottingham (uk/england)	gb	triangle	20	2/8/2005
+738	2/7/2008 08:00	bolton (uk/england)	gb	other	240	7/19/2010
+739	2/7/2009 19:30	morton (near norwich) (uk/england)	gb	light	600	3/19/2009
+740	2/7/2009 21:51	leicestershire (uk/england)	gb	light	300	3/19/2009
+741	2/7/2010 22:00	knutsford (uk/england)	gb		300	7/6/2010
+742	2/8/1984 20:00	brighton (uk/england)	gb	triangle	2	8/20/2001
+743	2/8/1990 21:00	manchester (uk/england)	gb	triangle	8	5/11/2005
+744	2/8/2001 19:41	bolton (uk/england)	gb		3	2/18/2001
+745	2/8/2001 19:44	wakefield (uk/england)	gb	cigar	30	2/18/2001
+746	2/8/2004 00:00	bristol (uk/england)	gb	light	7200	2/12/2004
+747	2/8/2007 07:20	darlington (uk/england)	gb	disk	2	8/7/2007
+748	2/9/2009 21:20	salford (uk/england)	gb	changing	60	3/19/2009
+749	2/9/2009 21:20	salford (uk/england)	gb	changing	60	3/19/2009
+760	3/1/1986 16:00	birmingham (uk/england)	gb	other	120	3/13/2012
+761	3/1/1993 00:00	merseyside (uk/england)	gb	sphere	3600	8/5/2001
+762	3/1/1998 03:00	sunderland (uk/england)	gb	rectangle	300	8/28/2003
+639	3/1/2001 10:35	leeds (uk/england)	gb	disk	2	3/6/2001
+640	3/1/2007 12:00	cardiff (uk/wales)	gb	teardrop	2	4/14/2009
+641	3/1/2009 21:00	leeds (uk/england)	gb	light	960	3/19/2009
+642	3/1/2010 18:45	ystradgynlais (uk/wales)	gb		120	4/13/2010
+750	3/10/2001 01:23	yorkshire (uk/england)	gb	sphere	8	3/16/2001
+751	3/10/2004 03:00	great yarmouth (uk/england)	gb	disk	30	10/27/2004
+752	3/10/2007 22:00	northamptonshire (uk/england)	gb	other	240	11/28/2007
+753	3/10/2007 22:00	wolverhampton (uk/england)	gb	sphere	4200	4/27/2007
+754	3/10/2011 14:45	whitchurch (buckinghamshire) (uk/england)	gb	sphere	180	3/23/2011
+755	3/10/2012 23:00	warsop (mansfield) (uk/england)	gb	light	5	10/30/2012
+756	3/11/2000 19:10	rye (uk/england)	gb	egg	12	12/2/2000
+757	3/11/2007 18:30	warrington (uk/england)	gb	triangle	120	11/28/2007
+758	3/11/2010 22:05	shrewsbury (uk/england)	gb	sphere	360	4/13/2010
+759	3/11/2012 20:30	cornwall (camborne) (uk/england)	gb	other	300	11/4/2012
+643	3/12/1995 22:33	birmingham (uk/england)	gb	triangle	60	4/26/1999
+644	3/12/1996 17:30	clacton-on-sea (uk/england)	gb	triangle	60	10/12/2001
+645	3/12/1997 18:20	sunderland (uk/england)	gb	sphere	600	12/14/2004
+646	3/12/2002 00:00	warrington (uk/england)	gb	disk	12	3/19/2002
+647	3/12/2004 11:00	bristol (uk/england)	gb	sphere	120	4/27/2004
+648	3/12/2007 04:40	edinburgh (uk/scotland)	gb	unknown	60	3/4/2008
+649	3/12/2010 22:30	skelmersdale (uk/england)	gb	light	120	4/13/2010
+650	3/12/2011 20:00	coventry (uk/england)	gb	triangle	600	12/12/2011
+651	3/13/2001 16:00	glasgow (uk/scotland)	gb	sphere	5	3/16/2001
+652	3/13/2005 02:45	edinburgh (uk/scotland)	gb	formation	180	5/11/2005
+653	3/13/2005 07:30	crewe (uk/england)	gb	sphere	60	4/16/2005
+654	3/13/2005 18:37	alton (near) (uk/england)	gb	other	15	3/18/2014
+655	3/13/2006 20:00	lancaster (uk/england)	gb	triangle	12	5/15/2006
+656	3/13/2009 19:10	wolverhampton (uk/england)	gb	oval	40	3/19/2009
+657	3/13/2011 20:40	plymouth (uk/england)	gb	circle	60	3/23/2011
+658	3/14/2009 22:00	newark (uk/england)	gb	fireball	420	3/19/2009
+659	3/14/2013 10:00	durham (uk/england)	gb	formation	120	5/15/2013
+660	3/15/1991 12:00	hertfordshire (uk/england)	gb	disk	30	8/5/2001
+661	3/15/1993 21:30	edinburgh (uk/scotland)	gb	unknown	300	12/12/2009
+662	3/15/2002 14:55	aberdare (uk/wales)	gb	sphere	600	4/8/2002
+663	3/15/2003 16:17	ellesmere port (uk/england)	gb	sphere	60	3/21/2003
+664	3/15/2007 22:30	leicester (uk/england)	gb		900	4/27/2007
+665	3/15/2009 00:00	erith (uk/england)	gb	unknown	120	4/14/2009
+666	3/15/2009 22:00	blackheath (uk/england)	gb	light	120	6/9/2009
+667	3/15/2010 19:25	london (uk/england)	gb	light	900	4/13/2010
+668	3/16/2004 15:00	dunstable (uk/england)	gb	disk	1200	3/17/2004
+669	3/16/2004 18:23	oxford (uk/england)	gb	cigar	660	3/17/2004
+670	3/16/2005 08:45	distington (uk/england)	gb	circle	2	5/11/2005
+671	3/16/2014 20:30	cambridgeshire (uk/england)	gb	circle	30	3/27/2014
+672	3/17/2003 10:30	london (uk/england)	gb	cylinder	2700	3/21/2003
+673	3/17/2004 18:15	kirkby in ashfield (nottingham) (uk/england)	gb	triangle	300	3/23/2004
+674	3/17/2004 20:00	coventry (uk/england)	gb	light	1200	3/23/2004
+675	3/17/2005 22:15	newbury (uk/england)	gb	circle	10	5/11/2005
+676	3/17/2005 22:30	aylesbury (uk/england)	gb	oval	10	5/11/2005
+677	3/17/2007 14:28	coventry (uk/england)	gb	changing	120	4/27/2007
+678	3/18/2012 19:50	hertford (uk/england)	gb	disk	180	5/13/2012
+679	3/18/2014 20:00	lincoln (uk/england)	gb	light	180	3/21/2014
+680	3/19/2002 04:00	wisbech (uk/england)	gb	unknown	300	4/8/2002
+681	3/19/2006 23:00	birmingham (uk/england)	gb	light	7200	10/30/2006
+694	3/2/2001 18:50	fleetwood (uk/england)	gb	triangle	480	3/16/2001
+695	3/2/2003 14:00	bristol (uk/england)	gb	cigar	1200	9/24/2003
+682	3/20/1994 22:30	london (uk/england)	gb	other	900	8/11/2004
+683	3/20/2000 23:00	great yarmouth (uk/england)	gb	other	3600	3/4/2003
+684	3/20/2003 11:24	salford (uk/england)	gb	formation	10	5/27/2003
+685	3/20/2009 18:59	newark (uk/england)	gb	light	60	4/14/2009
+686	3/20/2009 23:10	birmingham (uk/england)	gb	sphere	180	4/14/2009
+687	3/20/2010 00:29	bristol (uk/england)	gb	egg	180	4/13/2010
+688	3/20/2014 01:00	stoke-on-trent (uk/england)	gb	circle	5	3/21/2014
+689	3/21/2002 03:04	greenwich (uk/england)	gb	circle	600	10/27/2004
+690	3/21/2004 21:02	langford (uk/england)	gb	triangle	300	3/23/2004
+691	3/21/2009 00:15	rotherham (south yorkshire) (uk/england)	gb	circle	300	4/14/2009
+692	3/21/2009 22:45	manchester (uk/england)	gb	sphere	180	4/14/2009
+693	3/21/2010 20:20	dornoch (uk/scotland)	gb	circle	1500	4/13/2010
+763	3/22/2004 23:00	motherwell (n. lanarkshire co.) (uk/scotland)	gb	cylinder	3	3/28/2004
+764	3/22/2009 19:05	harpenden (uk/england)	gb	circle	15	4/14/2009
+765	3/22/2009 22:30	manchester (uk/england)	gb	light	1200	5/12/2009
+766	3/23/1998 18:45	lichfield (near); staffordshire (uk/england)	gb	cigar	180	3/19/2002
+830	3/24/2002 03:00	coventry (uk/england)	gb	sphere	10	4/8/2002
+831	3/24/2014 07:00	birmingham (uk/england)	gb		180	3/27/2014
+832	3/25/2003 22:45	folkestone (uk/england)	gb	unknown	300	3/28/2004
+833	3/25/2010 22:00	sale (manchester) (uk/england)	gb	other	300	4/13/2010
+834	3/26/2013 11:05	coventry (uk/england)	gb	cigar	4	5/15/2013
+835	3/27/2001 12:10	london (uk/england)	gb	other	420	4/1/2001
+836	3/27/2002 19:50	nottingham (uk/england)	gb	cone	30	4/8/2002
+837	3/27/2008 08:00	london (uk/england)	gb	other	1	8/30/2013
+838	3/27/2010 21:45	london (uk/england)	gb	fireball	420	4/13/2010
+839	3/28/2004 00:15	brighton (uk/england)	gb	triangle	60	3/28/2004
+847	3/3/1983 13:00	london (uk/england)	gb	cigar	15	7/5/2005
+848	3/3/1995 22:30	sunderland (uk/england)	gb	light	600	4/28/2001
+849	3/3/2003 12:15	sheffield (uk/england)	gb	cone	21	3/4/2003
+850	3/3/2006 22:00	bognor regis (uk/england)	gb	circle	10	3/11/2006
+851	3/3/2006 22:30	london (uk/england)	gb	triangle	30	3/8/2007
+852	3/3/2012 20:45	norwich (norfolk) (uk/england)	gb	sphere	60	3/13/2012
+840	3/30/2001 09:10	solihull (uk/england)	gb	cigar	1500	4/1/2001
+841	3/30/2003 21:05	new brighton (uk/england)	gb	light	300	4/22/2003
+842	3/30/2003 22:30	loanhead (near edinburgh) (uk/scotland)	gb	cone	20	4/22/2003
+843	3/30/2006 02:30	penicuik (uk/scotland)	gb	triangle	240	5/15/2006
+844	3/30/2009 04:30	worcester (uk/england)	gb	other	60	6/20/2011
+845	3/30/2011 00:58	london (uk/england)	gb		300	4/3/2011
+846	3/31/1993 00:00	norfolk (uk/england)	gb	triangle	120	9/9/2013
+853	3/4/2001 19:30	pewsey (uk/england)	gb	light	60	3/6/2001
+854	3/4/2006 11:17	coventry (uk/england)	gb	cross	360	5/15/2006
+855	3/4/2006 18:30	canterbury (near)&#44 dover&#44 kent (uk/england)	gb	disk	40	3/11/2006
+856	3/4/2007 23:30	lancashire (uk/england)	gb	formation	50	3/8/2007
+857	3/4/2008 18:00	durham (uk/england)	gb	cone	3600	10/31/2008
+858	3/5/1999 23:00	falkirk (uk/england)	gb	triangle	600	6/6/2000
+859	3/5/2006 11:00	birmingham (uk/england)	gb	other	900	3/11/2006
+860	3/5/2006 21:20	london (uk/england)	gb	oval	20	7/16/2006
+861	3/5/2009 22:15	tavistock (uk/england)	gb	circle	120	3/19/2009
+862	3/5/2014 12:00	ipswich (uk/england)	gb	oval	30	3/18/2014
+863	3/6/1998 23:55	southampton (hampshire) (uk/england)	gb	changing	1200	3/19/2002
+864	3/6/2002 23:45	birmingham (uk/england)	gb	light	360	6/12/2002
+865	3/6/2004 18:00	spalding (uk/england)	gb	light	10	3/17/2004
+866	3/6/2004 19:55	fleetwood (uk/england)	gb	sphere	300	3/17/2004
+867	3/6/2004 23:00	hertfordshire (uk/england)	gb	triangle	7200	2/8/2005
+868	3/7/2002 19:30	london (uk/england)	gb	triangle	300	3/19/2002
+869	3/7/2003 01:45	bristol (uk/england)	gb	light	10800	4/22/2003
+870	3/7/2003 20:15	colchester (uk/england)	gb	unknown	3	3/21/2003
+871	3/7/2004 01:10	nottingham (uk/england)	gb	circle	1200	7/25/2004
+872	3/7/2004 19:00	london (uk/england)	gb	other	5400	3/9/2004
+873	3/7/2004 21:00	luton (uk/england)	gb	changing	1200	3/9/2004
+874	3/7/2005 13:00	london (uk/england)	gb	circle	5	5/11/2005
+875	3/7/2007 22:45	middlesbrough (uk/england)	gb	diamond	120	4/27/2007
+876	3/7/2010 00:00	london (uk/england)	gb	circle	120	4/13/2010
+877	3/7/2010 19:15	dunstable (uk/england)	gb	circle	300	4/13/2010
+878	3/7/2013 02:50	woodford green (uk/england)	gb	unknown	120	5/15/2013
+879	3/8/1999 15:45	guilford (uk/england)	gb	circle	5	4/2/1999
+880	3/8/2000 23:30	huddersfield (uk/england)	gb	teardrop	600	4/1/2001
+881	3/8/2014 23:55	birmingham (uk/birmingham)	gb	triangle	5	3/18/2014
+882	3/9/2007 03:00	stirlingshire (uk/scotland)	gb		37800	4/27/2007
+779	4/1/2014 00:00	kempsey (worcester) (uk/england)	gb	unknown	10	4/4/2014
+883	4/10/2002 22:00	newcastle (uk/england)	gb	teardrop	600	4/25/2002
+884	4/10/2003 17:35	st. albans (uk/england)	gb	other	300	4/22/2003
+885	4/10/2004 20:15	aberdeen (uk/scotland)	gb		5400	10/27/2004
+886	4/10/2006 13:20	fleetwood (uk/england)	gb	disk	30	5/15/2006
+767	4/10/2010 21:45	south ockendon (uk/england)	gb	fireball	45	4/13/2010
+768	4/10/2010 22:45	moffat (uk/scotland)	gb	oval	540	4/13/2010
+769	4/11/2000 19:00	wiltshire (uk/england)	gb	teardrop	600	12/2/2000
+770	4/11/2003 02:00	norwich (uk/england)	gb	unknown	40	4/22/2003
+771	4/11/2005 18:15	storrington (uk/england)	gb	circle	8	11/8/2005
+772	4/11/2005 21:30	southampton (uk/england)	gb	oval	8	4/16/2005
+773	4/11/2006 01:00	coventry (uk/england)	gb	formation	600	5/15/2006
+774	4/11/2006 21:28	london (uk/england)	gb	oval	180	12/7/2006
+775	4/11/2006 22:00	watford (uk/england)	gb	formation	600	2/1/2007
+776	4/11/2007 21:20	nottingham (uk/england)	gb	formation	15	4/27/2007
+777	4/11/2010 23:20	merthyr tydfil (uk/wales)	gb	fireball	120	4/13/2010
+778	4/11/2013 00:58	leadgate (uk/england)	gb	cone	432000	1/10/2014
+780	4/12/2001 00:25	gosforth (uk/england)	gb	circle	300	4/28/2001
+781	4/12/2006 23:45	east preston (uk/england)	gb	light	120	12/7/2006
+782	4/12/2007 00:00	manchester (uk/england)	gb	sphere	1200	4/27/2007
+783	4/12/2007 05:36	birmingham (uk/england)	gb	rectangle	5	3/4/2008
+784	4/12/2008 21:00	stafford (uk/england)	gb	unknown	60	1/10/2009
+785	4/12/2008 22:00	seaton (uk/england)	gb	light	420	6/12/2008
+786	4/12/2008 23:35	chesterfield (uk/england)	gb	circle	360	6/12/2008
+787	4/12/2009 00:00	middlesbrough (uk/england)	gb	triangle	600	6/9/2009
+788	4/12/2009 00:11	middlesbrough (uk/england)	gb	circle	180	4/14/2009
+789	4/12/2009 20:50	manchester (uk/england)	gb	circle	75.6	4/14/2009
+790	4/12/2012 22:30	cardiff (vale of glamorgan)(uk/wales)	gb	triangle	5	5/13/2012
+791	4/13/1995 22:15	london (uk/england)	gb	light	90	12/23/2002
+792	4/13/2002 21:55	leicester (uk/england)	gb	sphere	2100	4/25/2002
+793	4/13/2009 20:00	stoke-on-trent (uk/england)	gb	fireball	840	5/12/2009
+794	4/14/2005 19:30	nottingham (uk/england)	gb	unknown	900	4/16/2005
+795	4/14/2006 00:45	london (uk/england)	gb	sphere	5	5/15/2006
+796	4/14/2006 18:04	camberley (uk/england)	gb	teardrop	120	5/15/2006
+797	4/14/2007 02:00	london (uk/england)	gb	rectangle	3600	10/8/2007
+798	4/14/2010 17:08	boston (uk/england)	gb	sphere	20	5/12/2010
+799	4/14/2011 22:15	leven (uk/england)	gb	unknown	45	5/2/2011
+800	4/15/1993 00:00	london (uk/england)	gb	disk	1200	6/20/2012
+801	4/15/1999 00:50	manchester (uk/england)	gb	light	60	4/27/2007
+802	4/15/2005 22:40	glasgow (uk/scotland))	gb	fireball	60	5/11/2005
+803	4/15/2009 23:55	pitlochry (uk/scotland)	gb	sphere	180	8/5/2009
+804	4/15/2010 13:00	st. helens (merseyside)(uk/england)	gb	circle	5	11/21/2010
+805	4/15/2012 10:50	doncaster (uk/england)	gb	circle	120	5/13/2012
+806	4/16/2006 00:30	gloucester (uk/england)	gb	triangle	30	5/15/2006
+807	4/16/2009 15:40	lincoln (uk/england)	gb	disk	120	5/12/2009
+808	4/17/2001 04:05	barnstaple (uk/england)	gb	light	120	4/28/2001
+809	4/17/2006 21:32	edinburgh (uk/scotland)	gb	circle	600	5/15/2006
+810	4/17/2007 15:00	peterborough (uk/england)	gb	unknown	2	4/27/2007
+811	4/17/2009 21:37	kelling (uk/england)	gb	light	240	5/12/2009
+812	4/18/2004 19:00	cardiff (uk/wales)	gb	formation	60	4/27/2004
+813	4/18/2004 23:00	london (middlesex) (uk/england)	gb	triangle	30	4/27/2004
+814	4/18/2009 21:40	stoke-on-trent (uk/england)	gb		60	5/12/2009
+815	4/18/2009 21:43	leicester (uk/england)	gb	fireball	15	5/12/2009
+816	4/18/2009 22:47	scunthorpe (uk/england)	gb	oval	1200	5/12/2009
+817	4/19/2002 21:30	hemel hempstead (uk/england)	gb	circle	120	4/25/2002
+818	4/19/2005 01:00	berkshire county (uk/england)	gb	light	1200	5/11/2005
+819	4/19/2007 21:30	sidcup (uk/england)	gb	formation	60	4/27/2007
+820	4/19/2009 21:00	hartlepool (uk/england)	gb	fireball	300	5/12/2009
+821	4/19/2009 21:30	cambridge (uk/england)	gb	unknown	40	5/12/2009
+822	4/19/2011 11:00	leeds (uk/england)	gb	cylinder	5	5/2/2011
+823	4/19/2013 06:40	norwich (uk/england)	gb	light	20	5/15/2013
+824	4/19/2014 16:30	dunfermline (uk/scotland)	gb	cylinder	30	4/24/2014
+825	4/19/2014 16:30	fife (uk/scotland)	gb	other	30	4/24/2014
+966	4/2/2005 21:54	st. helens (merseyside) (uk/england)	gb	triangle	60	10/30/2006
+826	4/20/1997 19:30	penryn (uk/england)	gb	sphere	120	12/9/2000
+827	4/20/2003 21:00	wolverhampton (uk/england)	gb	unknown	120	4/22/2003
+828	4/20/2005 21:45	glasgow (uk/scotland)	gb	other	600	5/11/2005
+829	4/20/2009 22:00	cirencester (uk/england)	gb	circle	300	5/12/2009
+887	4/21/2002 04:00	manchester (uk/england)	gb	light	600	4/25/2002
+888	4/21/2003 16:00	lincoln (uk/england)	gb	unknown	900	4/22/2003
+889	4/21/2004 01:05	edinburgh (uk/scotland)	gb	flash	5	4/27/2004
+890	4/21/2004 22:00	hereford (uk/england)	gb	light	45	4/27/2004
+891	4/21/2007 16:30	bridgend (uk/wales)	gb	disk	300	6/12/2007
+892	4/21/2007 21:30	blackpool (uk/england)	gb	egg	300	4/27/2007
+893	4/21/2007 22:20	alfreton (uk/england)	gb	fireball	300	4/27/2007
+894	4/21/2008 16:10	nunburnholme (uk/england)	gb	oval	30	6/12/2008
+967	4/22/2003 22:10	dundee (uk/scotland)	gb	circle	60	4/27/2003
+968	4/22/2004 23:14	leigh-on-sea (uk/england)	gb	light	86400	4/27/2004
+969	4/22/2012 14:00	birmingham (uk/england)	gb	sphere	60	5/13/2012
+970	4/23/1997 21:30	norwich (uk/england)	gb	light	180	8/5/2001
+971	4/23/2007 22:00	derbyshire (uk/england)	gb	circle	30	3/19/2009
+972	4/23/2012 02:00	birmingham (uk/england)	gb	other	1200	5/29/2012
+973	4/24/2010 21:50	london (uk/england)	gb	flash	5	5/12/2010
+974	4/24/2011 15:00	harrogate (uk/england)	gb	disk	300	5/2/2011
+975	4/24/2012 23:00	lincoln (uk/england)	gb	light	30	5/13/2012
+976	4/25/2004 02:40	london (uk/england)	gb	triangle	60	5/4/2004
+977	4/25/2004 21:10	keighley (uk/england)	gb	sphere	3	4/27/2004
+978	4/25/2006 02:20	doncaster (uk/england)	gb	light	14400	5/15/2006
+979	4/26/2001 18:45	norwich (there was officer&#39s on the port side) (uk/england)	gb	sphere	180	4/28/2001
+980	4/26/2001 19:00	london (uk/england)	gb	oval	30	8/5/2001
+981	4/26/2002 00:20	brighton (uk/england)	gb	cigar	80	5/14/2002
+982	4/26/2004 22:00	atherstone (uk/england)	gb	unknown	60	4/30/2004
+983	4/26/2008 21:20	torquay (uk/england)	gb	other	2400	6/12/2008
+984	4/26/2009 22:20	tamworth (uk/england)	gb	formation	10	5/12/2009
+985	4/26/2009 23:05	woking (uk/england)	gb	sphere	120	5/12/2009
+986	4/27/2005 04:00	croydon (uk/england)	gb	unknown	120	5/11/2005
+987	4/27/2014 01:00	durham (uk/england)	gb		180	5/2/2014
+988	4/28/2001 23:10	lancashire (uk/england)	gb	sphere	600	8/5/2001
+989	4/28/2005 21:05	barnsley (uk/england)	gb	light	30	5/11/2005
+990	4/28/2011 17:57	liverpool (kirkdale) (uk/england)	gb	disk	5	5/2/2011
+991	4/29/2005 15:30	chester (uk/england)	gb	triangle	120	7/16/2006
+992	4/29/2007 22:00	lancaster (uk/england).	gb	light	180	6/12/2007
+994	4/3/2006 23:45	cardiff (uk/wales)	gb	other	30	5/15/2006
+995	4/3/2013 19:35	brigg (uk/england)	gb	light	30	5/15/2013
+993	4/30/2000 01:30	southampton (uk/england)	gb	triangle	15	5/3/2000
+996	4/4/1980 22:00	leamington spa (uk/england)	gb	other	300	8/5/2001
+997	4/4/1999 23:00	eastbourne (uk/england)	gb	teardrop	60	11/28/2007
+998	4/4/2000 17:20	cumbernauld (uk/scotland)	gb	oval	6	4/15/2000
+999	4/4/2003 01:00	staplefield (uk/england)	gb	egg	120	5/2/2003
+1000	4/4/2004 22:25	london (uk/england)	gb	cross	90	4/9/2004
+1001	4/4/2006 13:00	salford (uk/england)	gb	cigar	60	5/15/2006
+1002	4/4/2006 21:20	leigh (uk/england)	gb	circle	1200	5/15/2006
+1003	4/4/2009 00:25	manchester (uk/england)	gb	fireball	180	4/14/2009
+1004	4/4/2009 00:25	portsmouth (uk/england)	gb	light	15	4/14/2009
+1005	4/4/2009 21:00	reading (uk/england)	gb	light	420	4/14/2009
+1006	4/5/1996 15:00	burgess hill (uk/england)	gb	triangle	120	3/11/2003
+1007	4/5/2003 00:30	oxford (uk/england)	gb	unknown	300	5/13/2003
+1008	4/5/2003 18:53	dundee (uk/scotland)	gb	egg	900	5/9/2003
+1009	4/5/2004 02:14	derby (uk/england)	gb	cigar	240	6/18/2004
+1010	4/5/2009 01:00	basingstoke (uk/england)	gb	light	2	4/14/2009
+1011	4/5/2009 19:00	taunton (somerset) (uk/england)	gb	sphere	180	12/12/2009
+1012	4/5/2011 20:40	london (uk/england)	gb	light	900	5/2/2011
+1013	4/5/2014 20:10	sutton in ashfield (uk/england)	gb	cross	180	4/11/2014
+1014	4/6/1996 20:00	st. helens (uk/england)	gb	disk	360	3/4/2003
+1015	4/6/1999 01:15	aberdeen (uk/scotland)	gb	fireball	4	8/5/2001
+1016	4/6/2001 16:34	london (uk/england)	gb	formation	600	8/5/2001
+1017	4/6/2006 21:50	leeds (uk/england)	gb	light	10	5/15/2006
+1018	4/6/2008 00:56	worksop (uk/england)	gb	unknown	300	6/12/2008
+1019	4/6/2009 16:40	boston (uk/england)	gb	triangle	30	4/14/2009
+1020	4/7/2000 01:15	cardross (uk/scotland)	gb	fireball	10	4/15/2000
+1021	4/7/2001 22:54	eynsham (uk/england)	gb	disk	120	8/5/2001
+1022	4/7/2006 11:30	london (uk/england)	gb	oval	15	5/15/2006
+1023	4/7/2008 22:30	derbyshire (uk/england)	gb	circle	90	7/5/2008
+1024	4/7/2010 23:00	cumbria (uk/england)	gb	light	420	4/13/2010
+1025	4/7/2012 09:50	peterborough (uk/england)	gb	rectangle	180	4/18/2012
+1026	4/8/1999 03:30	leicester (uk/england)	gb	formation	40	5/24/1999
+1027	4/8/2002 11:50	oldham (uk/england)	gb	light	300	11/20/2002
+1028	4/8/2003 23:45	torquay (uk/england)	gb	formation	15	8/28/2003
+1029	4/8/2004 19:30	rubery (uk/england)	gb	cigar	1800	9/9/2004
+895	4/8/2008 03:00	wrexham (uk/england)	gb	sphere	900	6/12/2008
+896	4/8/2010 22:00	knottingley (uk/england)	gb	circle	120	4/13/2010
+897	4/8/2013 20:45	croydon (uk/england)	gb	circle	40	4/12/2013
+898	4/9/2007 22:50	london (uk/england)	gb	light	600	10/8/2007
+899	4/9/2008 03:00	haworth (uk/england)	gb	light	180	4/17/2008
+900	4/9/2011 15:30	london (uk/england)	gb	sphere	3	5/2/2011
+901	4/9/2014 18:00	kent (uk/england)	gb	cylinder	600	4/11/2014
+921	5/1/1997 16:00	torquay (uk/england)	gb	circle	20	8/28/2003
+922	5/1/2002 23:05	birmingham (uk/england)	gb	light	600	5/14/2002
+923	5/1/2003 19:00	wakefield (uk/england)	gb	triangle	180	5/11/2005
+924	5/1/2004 23:00	dunstable (uk/england)	gb	sphere	18000	7/25/2004
+925	5/1/2005 23:15	hartlepool (uk/england)	gb	cylinder	120	5/11/2005
+926	5/1/2009 23:30	spilsby (uk/england)	gb	other	300	7/14/2013
+902	5/10/1999 23:30	edinburgh (uk/scotland)	gb	formation	10	5/24/1999
+903	5/10/2003 01:00	leamington spa (uk/england)	gb	light	300	10/7/2003
+904	5/10/2003 04:00	boscastle (cornwall) (uk/england)	gb	sphere	2700	10/31/2003
+905	5/10/2003 11:30	belfast (uk/n. ireland)	gb	oval	600	7/16/2003
+906	5/10/2003 23:35	cardiff (uk/wales)	gb	unknown	3	5/27/2003
+907	5/10/2004 15:41	hertfordshire (uk/england)	gb	changing	540	10/27/2004
+908	5/10/2010 21:00	hereford (uk/england)	gb	sphere	180	9/24/2012
+909	5/11/1981 23:00	warminster (uk/england)	gb	circle	120	10/30/2012
+910	5/11/2000 22:00	scarborough (uk/england)	gb	light	300	10/12/2001
+911	5/11/2001 00:00	london (uk/england)	gb	other	10	6/5/2012
+912	5/11/2001 20:32	london (uk/england)	gb	light	1200	3/19/2002
+913	5/11/2003 00:00	birmingham (uk/england)	gb	light	60	5/27/2003
+914	5/11/2005 02:30	wakefield (uk/england)	gb	circle	1800	5/24/2005
+915	5/11/2005 21:30	falkirk (uk/scotland)	gb	light	30	10/11/2005
+916	5/11/2006 19:30	london (uk/england)	gb	light	1200	12/7/2006
+917	5/11/2007 21:09	croydon (uk/england)	gb	formation	300	7/22/2013
+918	5/11/2009 00:03	york (uk/england)	gb	sphere	5	6/9/2009
+919	5/11/2009 22:45	newcastle upon tyne (uk/england)	gb	fireball	4	5/12/2009
+920	5/11/2010 00:01	hounslow (uk/england)	gb	cylinder	300	2/18/2011
+927	5/12/2002 00:30	london (uk/england)	gb	light	20	5/14/2002
+928	5/12/2004 12:07	london (uk/england)	gb	egg	120	7/5/2005
+929	5/12/2007 00:00	welwyn garden city (uk/england)	gb	light	900	6/12/2007
+930	5/12/2009 23:18	nantwich (uk/england)	gb	light	240	6/9/2009
+931	5/12/2010 00:00	hull (hull) (uk/england)	gb	other	60	6/3/2010
+932	5/12/2010 01:24	bedlington (uk/england)	gb	other	20	5/12/2010
+933	5/13/1983 17:00	london (uk/england)	gb	disk	120	6/20/2005
+934	5/13/2001 20:00	rugeley (uk/england)	gb	changing	2400	6/4/2004
+935	5/13/2006 00:00	london (uk/england)	gb	light	20	7/16/2006
+936	5/13/2008 03:40	essex (uk/england)	gb	light	360	6/12/2008
+937	5/13/2009 23:30	paisley (uk/scotland)	gb	light	60	6/9/2009
+938	5/13/2012 20:44	reading (berkshire) (uk/england)	gb	circle	60	5/29/2012
+939	5/14/2001 22:30	exeter (uk/england)	gb	light	4	8/5/2001
+940	5/14/2006 03:45	newcastle upon tyne (uk/england)	gb	light	120	5/15/2006
+941	5/15/1972 12:45	bicester (uk/england)	gb	sphere	180	7/4/2012
+942	5/15/1977 02:00	kilmarnock (uk/england)	gb		1200	6/12/2002
+943	5/15/1986 21:00	liverpool (uk/england)	gb	rectangle	15	6/12/2008
+944	5/15/1993 20:00	london (uk/england)	gb	other	2700	4/8/2002
+945	5/15/1997 13:00	bedford (uk/england)	gb	triangle	300	5/14/2002
+946	5/15/1998 15:00	manchester (uk/england)	gb	triangle	240	11/11/2013
+947	5/15/2000 01:00	derby (uk/england)	gb	diamond	300	6/20/2005
+948	5/15/2003 21:37	portsmouth (uk/england)	gb	egg	840	5/27/2003
+949	5/15/2003 22:00	northallerton (uk/england)	gb	disk	30	10/7/2003
+950	5/15/2003 23:30	mansfield (uk/england)	gb	sphere	900	5/27/2003
+951	5/15/2003 23:30	mansfield (uk/england)	gb	sphere	900	5/27/2003
+952	5/15/2005 12:00	surrey (uk/england)	gb	circle	120	5/24/2005
+953	5/15/2005 13:00	hounslow (middlesex) (uk/england)	gb	light	900	5/24/2005
+954	5/15/2005 15:00	grays (essex) (uk/england)	gb	changing	30	5/24/2005
+955	5/15/2005 16:00	london (uk/london)	gb	disk	240	10/11/2005
+956	5/15/2005 17:00	coventry (uk/england)	gb	cigar	60	5/24/2005
+957	5/15/2005 19:00	bedford (uk/england)	gb	triangle	5400	5/24/2005
+958	5/15/2009 01:00	wolverhampton (uk/england)	gb	cone	7200	7/28/2010
+959	5/15/2010 22:30	preston (uk/england)	gb	fireball	60	6/3/2010
+960	5/17/2001 22:15	middlesborough (uk/england)	gb	unknown	30	8/5/2001
+961	5/17/2004 02:45	southampton (uk/england)	gb	formation	900	6/4/2004
+962	5/17/2004 22:00	doncaster (uk/england)	gb	oval	2	6/4/2004
+963	5/18/2005 21:50	leicester (uk/england)	gb	unknown	180	5/24/2005
+964	5/18/2006 21:20	lancashire (uk/england)	gb	unknown	10	7/16/2006
+965	5/18/2010 21:00	birmingham (uk/england)	gb	triangle	3600	6/3/2010
+1030	5/19/2004 14:15	kent (uk/england)	gb	cigar	900	6/4/2004
+1031	5/19/2007 23:50	london (uk/england)	gb	light	240	6/12/2007
+1032	5/19/2011 22:50	darlington (uk/england)	gb	teardrop	180	5/29/2011
+1105	5/2/2005 01:00	london (uk/england)	gb		60	5/11/2005
+1106	5/2/2009 21:20	coningsby (uk/england)	gb	sphere	180	5/12/2009
+1107	5/2/2009 22:35	birmingham (uk/england)	gb	sphere	360	5/12/2009
+1108	5/2/2012 22:00	douglas (isle of man)(uk/england)	gb	fireball	20	12/2/2013
+1033	5/20/2001 23:00	london (uk/england)	gb	changing	10800	8/5/2001
+1034	5/20/2006 01:20	newcastle upon tyne (uk/england)	gb	unknown	10	7/16/2006
+1103	5/21/2000 04:50	glasgow (uk/scotland)	gb	cylinder	180	8/5/2000
+1104	5/21/2007 00:00	oxford (uk/england)	gb	cigar	900	6/12/2007
+1109	5/22/2007 21:00	ellesmere port (uk/england)	gb	other	2100	6/12/2007
+1110	5/22/2010 22:25	handforth (uk/england)	gb	unknown	4	6/3/2010
+1111	5/22/2010 22:28	mansfield (uk/england)	gb	fireball	600	6/3/2010
+1112	5/22/2012 16:40	swansea (uk/england)	gb	disk	60	5/29/2012
+1113	5/22/2012 20:30	gwent (uk/wales)	gb	other	480	5/29/2012
+1114	5/23/2001 21:11	manchester (uk/england)	gb	teardrop	1140	8/5/2001
+1115	5/23/2006 11:00	st. andrews (uk/scotland)	gb	sphere	30	7/16/2006
+1116	5/23/2010 18:15	thornton heath (uk/england)	gb	rectangle	300	6/3/2010
+1117	5/24/2001 00:57	winchester (uk/england)	gb	other	4	8/5/2001
+1118	5/24/2003 19:20	birmingham (uk/england)	gb	oval	300	5/27/2003
+1119	5/24/2009 22:30	stoke-on-trent (uk/england)	gb	light	600	6/9/2009
+1120	5/24/2012 21:45	london (uk/england)	gb	formation	30	5/29/2012
+1121	5/25/2003 02:15	birmingham (uk/england)	gb	light	480	5/27/2003
+1122	5/25/2005 17:00	london (uk/england)	gb	circle	10	6/20/2005
+1123	5/25/2012 13:30	london (uk/england)	gb	triangle	120	6/5/2012
+1124	5/26/2004 00:00	london (hamstead heath) (uk/england)	gb	formation	600	6/4/2004
+1125	5/26/2006 02:30	arbroath (uk/scotland)	gb	rectangle	4	7/16/2006
+1126	5/26/2010 22:08	torquay (devonshire) (uk/england)	gb	light	240	6/3/2010
+1127	5/27/2001 01:30	leeds (uk/england)	gb	triangle	300	8/5/2001
+1128	5/27/2002 08:17	llanfairfechan (uk/wales)	gb	circle	10	6/12/2002
+1129	5/27/2003 23:06	ipswich (uk/england)	gb	light	30	5/27/2003
+1130	5/28/2009 23:00	southampton (uk/england)	gb	circle	120	6/9/2009
+1131	5/29/2000 18:00	wolverhampton (uk/england)	gb	formation	3	8/5/2001
+1143	5/3/2004 22:00	london (uk/england)	gb	circle	900	2/8/2005
+1144	5/3/2009 21:30	plymouth (uk/england)	gb	fireball	60	5/12/2009
+1145	5/3/2009 22:24	marston moretaine (uk/england)	gb	circle	2	5/12/2009
+1132	5/30/2001 23:20	wrexham (uk/england)	gb	light	360	8/5/2001
+1133	5/30/2005 03:00	wolverhampton (uk/england)	gb	changing	180	6/20/2005
+1134	5/30/2007 01:07	keele (uk/england)	gb	formation	120	6/12/2007
+1135	5/30/2009 23:43	bristol (uk/england)	gb	circle	1200	6/9/2009
+1136	5/30/2010 02:20	bristol (uk/england)	gb	rectangle	60	6/3/2010
+1137	5/31/2002 23:05	swansea (uk/england)	gb	light	10	6/12/2002
+1138	5/31/2005 01:20	doncaster (south yorkshire) (uk/england)	gb	unknown	600	6/20/2005
+1139	5/31/2005 19:45	london (uk/england)	gb	oval	6	6/20/2005
+1140	5/31/2006 22:52	wrexham (uk/england)	gb	light	40	7/16/2006
+1141	5/31/2008 22:25	sheffield (uk/england)	gb	circle	6	6/12/2008
+1142	5/31/2009 16:00	london (uk/england)	gb	circle	240	6/9/2009
+1146	5/4/1966 22:30	southampton (uk/england)	gb	triangle	120	10/30/2006
+1147	5/4/2007 10:00	derbyshire (uk/england)	gb	fireball	240	7/4/2012
+1148	5/4/2008 21:35	edinburgh (uk/scotland)	gb	light	30	6/12/2008
+1149	5/5/2000 02:00	hailsham (east sussex) (uk/england)	gb	other	600	3/18/2014
+1150	5/5/2003 23:20	milford haven (pembrokeshire) (uk/england)	gb	diamond	1200	5/9/2003
+1151	5/5/2005 17:00	hampshire (uk/england)	gb	disk	300	5/24/2005
+1152	5/5/2006 15:00	washington (uk/england)	gb	sphere	1200	5/15/2006
+1153	5/5/2007 02:30	inverness (near) (uk/scotland)	gb	light	1200	6/12/2007
+1154	5/5/2010 14:00	edinburgh (uk/scotland)	gb	rectangle	60	5/12/2010
+1155	5/6/1993 02:00	glasgow (uk/scotland)	gb	triangle	30	3/16/2001
+1156	5/6/2003 12:15	birmingham (uk/england)	gb	teardrop	300	5/9/2003
+1157	5/6/2003 22:30	oxford (uk/england)	gb	light	60	5/13/2003
+1158	5/6/2005 00:30	portsmouth (uk/england)	gb	cigar	300	7/5/2005
+1159	5/6/2006 05:30	southport (uk/england)	gb		45	6/12/2007
+1160	5/6/2009 00:15	cardiff (uk/wales)	gb	teardrop	120	5/12/2009
+1035	5/7/1972 00:00	essex (uk/england)	gb	unknown	180	5/15/2006
+1036	5/7/2000 19:00	london (ne) (uk/england)	gb		30	8/12/2001
+1037	5/7/2012 01:00	sheffield (uk/england)	gb	oval	180	5/13/2012
+1038	5/7/2014 11:56	heswall (uk/england)	gb	triangle	40	5/8/2014
+1039	5/8/2002 21:00	derby (uk/england)	gb	other	1260	5/14/2002
+1040	5/9/2000 21:50	billingham (uk/england)	gb	cigar	300	6/6/2000
+1041	5/9/2004 18:00	douglas (uk/england)	gb	light	1800	1/19/2005
+1042	5/9/2008 22:33	cannock (uk/england)	gb	oval	3000	6/12/2008
+1043	5/9/2008 23:20	marlow (uk/england)	gb	formation	300	10/31/2008
+1044	5/9/2009 01:30	sunningdale (uk/england)	gb	disk	180	5/12/2009
+1045	5/9/2009 21:25	mansfield woodhouse (uk/england)	gb	light	60	12/12/2009
+1046	5/9/2009 21:30	yeovil (uk/england)	gb	unknown	1200	5/12/2009
+1047	5/9/2009 22:00	southend-on-sea (uk/england)	gb	fireball	300	5/12/2009
+1048	5/9/2009 22:12	bideford (uk/england)	gb	other	5	5/12/2009
+1049	5/9/2010 01:15	cornwall (uk/england)	gb	light	2	5/12/2010
+1050	5/9/2012 08:30	brighton (uk/england)	gb	rectangle	30	9/24/2012
+1064	6/1/1952 12:00	linlithgow (west  lothian) (uk/scotland)	gb	circle	120	12/2/2000
+1065	6/1/1957 19:50	london (uk/england)	gb		600	1/22/2000
+1066	6/1/1970 19:30	gainsborough (uk/england)	gb	circle	30	8/5/2001
+1067	6/1/1972 01:00	bath (uk/england)	gb		259200	12/2/2000
+1068	6/1/1972 23:30	wigan (uk/england)	gb	circle	5	9/2/2005
+1069	6/1/1975 15:00	leeds (uk/england)	gb	light	10	6/6/2000
+1070	6/1/1976 22:00	canterbury (uk/england)	gb	disk	900	8/12/2008
+1071	6/1/1978 06:30	felixstowe (uk/england)	gb	sphere	900	6/12/2008
+1072	6/1/1979 15:30	birmingham (uk/england)	gb	cylinder	900	10/30/2006
+1073	6/1/1979 20:00	hamilton (uk/scotland)	gb	light	15	2/14/2008
+1074	6/1/1979 21:00	hemel hempstead (uk/england)	gb	other	600	2/16/2000
+1075	6/1/1980 09:00	plymouth (uk/england)	gb	oval	120	8/5/2001
+1076	6/1/1980 18:00	london (uk/england)	gb	circle	420	7/16/2006
+1077	6/1/1980 18:30	birmingham (uk/england)	gb	unknown	300	2/18/2001
+1078	6/1/1987 02:00	llandovery (uk/wales)	gb	other	1800	2/14/2006
+1079	6/1/1990 23:30	durham (uk/england)	gb		600	3/19/2002
+1080	6/1/1993 20:00	london (uk/england)	gb	other	1800	3/6/2001
+1081	6/1/1995 21:00	nottingham (uk/england)	gb	light	300	8/24/2010
+1082	6/1/1996 02:00	colne (uk/england)	gb	circle	420	7/25/2004
+1083	6/1/1996 04:30	nottingham (uk/england)	gb	diamond	120	2/14/2010
+1084	6/1/1996 00:00	nottingham (uk/england)	gb	triangle	300	5/14/2002
+1085	6/1/1997 00:00	cardiff (uk/wales)	gb	triangle	240	12/23/2002
+1086	6/1/1997 13:00	liverpool (uk/england)	gb	disk	600	5/15/2006
+1087	6/1/1997 13:00	liverpool (uk/england)	gb	oval	360	7/11/2000
+1088	6/1/1997 18:00	hemel hempstead (uk/england)	gb	sphere	120	12/2/2000
+1089	6/1/1998 19:00	trowbridge (uk/england)	gb	light	300	1/29/2002
+1090	6/1/1999 11:30	manchester (uk/england)	gb	triangle	120	4/1/2001
+1091	6/1/1999 17:00	maldon (uk/england)	gb	other	600	5/24/2005
+1092	6/1/2000 04:30	saxton (a small village in yorkshire) (uk/england)	gb	sphere	5	6/12/2002
+1093	6/1/2002 09:50	newport (uk/england)	gb	teardrop	300	6/12/2002
+1094	6/1/2011 15:00	colwyn bay (uk/england)	gb	sphere	259200	5/13/2012
+1095	6/1/2013 02:05	bristol (uk/england)	gb	light	600	6/2/2013
+1051	6/10/2000 12:30	sheffield (uk/england)	gb	triangle	1200	6/21/2000
+1052	6/10/2001 21:00	skelmanthorpe (uk/england)	gb	triangle	20	8/5/2001
+1053	6/10/2002 09:30	portchester (uk/england)	gb	light	20	10/15/2002
+1054	6/10/2006 00:25	birmingham (uk/england)	gb	triangle	10	7/16/2006
+1055	6/10/2006 02:30	ipswich (uk/england)	gb	triangle	18000	2/1/2007
+1056	6/10/2010 23:05	edinburgh (uk/scotland)	gb	changing	240	6/23/2010
+1057	6/11/1998 00:15	gateshead (uk/england)	gb	triangle	30	10/31/2003
+1058	6/11/2000 16:38	glenrothes (uk/scotland)	gb	light	90	7/5/2008
+1059	6/11/2002 16:45	johnstone (near haverfordwest) (uk/england)	gb	rectangle	300	11/16/2002
+1060	6/11/2005 19:00	london (mad mile rd.&#44 addington) (uk/england)	gb	circle	1800	11/8/2005
+1061	6/11/2005 23:35	birkenhead (uk/england)	gb	triangle	20	12/16/2005
+1062	6/11/2009 18:59	hull (uk/england)	gb	oval	120	12/12/2009
+1063	6/11/2010 19:52	stevenage (uk/england)	gb	circle	600	11/21/2010
+1096	6/12/1994 15:40	crawley (uk/england)	gb	triangle	420	12/20/2000
+1097	6/12/1996 17:00	loanhead (uk/scotland)	gb	teardrop	25	8/7/2007
+1098	6/12/1998 22:00	kent (uk/england)	gb	circle	900	7/16/2006
+1099	6/12/1999 11:30	wolverhampton (uk/england)	gb	light	30	6/23/1999
+1100	6/12/2008 01:00	bristol (uk/england)	gb	unknown	4	4/14/2009
+1101	6/12/2011 21:20	manchester (uk/england)	gb	circle	900	6/12/2011
+1102	6/13/1999 06:35	bispham (blackpool) (uk/england)	gb	teardrop	120	6/23/1999
+1161	6/13/2004 15:00	southampton (uk/england)	gb	cylinder	1200	6/18/2004
+1162	6/13/2004 22:00	cardiff (uk/wales)	gb	rectangle	120	6/18/2004
+1163	6/13/2007 09:17	scunthorpe (uk/england)	gb	unknown	1200	8/7/2007
+1164	6/13/2009 22:40	portsmouth (uk/england)	gb	circle	60	8/5/2009
+1165	6/13/2010 00:10	renfrew (uk/scotland)	gb	light	1200	6/23/2010
+1166	6/14/2007 23:42	edinburgh (uk/scotland)	gb	light	15	8/7/2007
+1167	6/14/2008 02:00	southampton (uk/england)	gb	triangle	120	7/5/2008
+1224	6/14/2011 00:28	london (uk/england)	gb	light	120	6/20/2011
+1225	6/15/1966 00:00	caversham (reading) (uk/england)	gb	disk	900	8/16/2002
+1226	6/15/1976 05:00	ammanford (uk/wales)	gb	cigar	1800	3/17/2004
+1227	6/15/1976 00:00	cornwall (uk/england)	gb	other	20	12/23/2002
+1228	6/15/1977 00:00	london ((uk/england)	gb	circle	15	12/7/2006
+1229	6/15/1980 10:30	southampton (uk/england)	gb	disk	60	3/4/2003
+1230	6/15/1981 10:00	reading (uk/england)	gb	disk	60	3/21/2003
+1231	6/15/1984 04:00	london (uk/england)	gb	cigar	600	5/2/2003
+1232	6/15/1986 12:30	oxford (uk/england)	gb	sphere	20	5/15/2006
+1233	6/15/1990 01:00	renfrew (uk/scotland)	gb	light	900	11/9/2002
+1234	6/15/1992 02:00	sedgefield (uk/england)	gb		5	8/28/2002
+1235	6/15/1993 03:20	peebles (near) (uk/scotland)	gb	sphere	900	7/16/2003
+1236	6/15/1993 04:00	neyland (uk/wales)	gb		120	2/22/2002
+1237	6/15/1993 14:00	kent (uk/england)	gb	circle	1800	3/4/2003
+1238	6/15/1996 22:00	scunthorpe (uk/england)	gb	rectangle	10	4/1/2000
+1239	6/15/1997 10:30	lancaster (uk/england)	gb	oval	4	12/16/2005
+1240	6/15/1999 18:00	sheffield (uk/england)	gb	formation	180	3/4/2003
+1241	6/15/1999 22:30	coventry (uk/england)	gb	triangle	300	8/5/2001
+1242	6/15/2001 23:00	manchester (uk/england)	gb	light	600	8/5/2001
+1243	6/15/2003 16:10	cambridge (uk/england)	gb	other	300	6/18/2003
+1244	6/15/2003 22:00	thornbury (bristol) (uk/england)	gb	sphere	360	11/26/2003
+1245	6/15/2004 01:10	shepton mallet (uk/england)	gb	cigar	60	6/18/2004
+1246	6/15/2008 19:00	london (uk/england)	gb	cone	180	7/5/2008
+1247	6/15/2009 21:41	bideford (uk/england)	gb	sphere	3	8/5/2009
+1248	6/16/2005 00:55	liverpool (uk/england)	gb	light	3300	7/13/2005
+1249	6/16/2005 19:30	coventry (uk/england)	gb	sphere	1800	10/11/2005
+1250	6/16/2007 20:31	birmingham (uk/england)	gb	disk	180	8/7/2007
+1251	6/16/2013 03:00	glasgow (uk/scotland)	gb	rectangle	5	7/3/2013
+1252	6/17/2005 02:10	coventry (uk/england)	gb	cigar	600	6/20/2005
+1253	6/18/2001 07:50	wigan (uk/england)	gb	other	900	8/5/2001
+1254	6/18/2009 23:05	glasgow (uk/scotland)	gb	disk	15	8/5/2009
+1255	6/18/2009 23:30	letchworth (uk/england)	gb	light	900	8/5/2009
+1271	6/2/1986 18:00	wiltshire (uk/england)	gb	disk	3600	10/20/2005
+1272	6/2/2004 00:00	nottingham (uk/england)	gb	circle	1200	7/8/2004
+1273	6/2/2009 01:00	dudley (uk/england)	gb	circle	300	6/9/2009
+1274	6/2/2010 00:00	ilkeston (derbyshire) (uk/england)	gb	fireball	600	6/3/2010
+1256	6/20/1989 21:30	london (uk/england)	gb	triangle	900	12/2/2000
+1257	6/20/1995 23:20	sedgley (uk/england)	gb	cone	600	8/5/2001
+1258	6/20/1999 14:00	worcester (uk/england)	gb	circle	300	2/22/2002
+1259	6/20/2000 22:00	southampton (uk/england)	gb	unknown	180	6/23/2004
+1260	6/20/2000 23:45	manchester (near) (uk/england)	gb	circle	480	7/16/2003
+1261	6/20/2001 22:30	tunbridge wells (uk/england)	gb	light	120	8/5/2001
+1262	6/20/2002 15:00	nottinghamshire (uk/england)	gb	changing	600	12/23/2002
+1263	6/20/2008 23:00	oldham (manchester)(uk/england)	gb	fireball	600	7/5/2008
+1264	6/20/2009 22:00	chiddingfold (uk/england)	gb	light	1800	8/5/2009
+1265	6/20/2009 23:40	hereford (uk/england)	gb	fireball	180	8/5/2009
+1266	6/21/1997 00:15	london (chingford hatch) (uk/england)	gb	light	4200	9/19/2002
+1267	6/21/2001 00:30	basingstoke (uk/england)	gb	light	30	8/5/2001
+1268	6/21/2008 00:45	burnley (uk/england)	gb	light	180	7/5/2008
+1269	6/21/2009 12:05	middlesbrough (uk/england)	gb	unknown	600	8/5/2009
+1270	6/21/2009 21:15	tunbridge wells (uk/england)	gb	light	1200	8/5/2009
+1275	6/22/2000 00:00	bolton (uk/england)	gb	sphere	900	7/23/2000
+1276	6/22/2002 22:45	bristol (uk/england)	gb	fireball	3	7/1/2002
+1277	6/22/2007 01:00	lancashire county (uk/england)	gb	cylinder	900	8/7/2007
+1278	6/22/2008 01:00	colchester (uk/england)	gb	sphere	240	7/5/2008
+1168	6/22/2010 18:00	kettering (uk/england)	gb	disk	20	7/6/2010
+1169	6/23/2000 21:55	exeter (uk/england)	gb	other	30	8/5/2001
+1170	6/23/2002 03:00	luton (uk/england)	gb	unknown	180	4/22/2003
+1171	6/23/2002 21:00	london (uk/england)	gb	cigar	600	7/1/2002
+1172	6/23/2006 22:35	sunderland (uk/england)	gb	light	60	7/16/2006
+1173	6/23/2007 23:00	london (uk/england)	gb	light	300	8/7/2007
+1174	6/24/2001 23:45	derby (uk/england)	gb	chevron	900	8/5/2001
+1175	6/24/2006 23:15	manchester (uk/england)	gb	sphere	1200	7/16/2006
+1176	6/24/2006 00:00	london (uk/england)	gb	light	600	7/16/2006
+1177	6/24/2008 05:50	leeds (uk/england)	gb	sphere	840	7/5/2008
+1178	6/24/2008 22:00	surrey (uk/england)	gb	cigar	60	7/5/2008
+1179	6/24/2010 23:45	manchester (uk/england)	gb	light	240	7/6/2010
+1180	6/25/2003 01:00	larkhall (near glasgow) (uk/scotland)	gb	light	120	7/16/2003
+1181	6/25/2008 22:00	market drayton (uk/england)	gb	other	120	7/5/2008
+1182	6/25/2008 22:00	sheffield (uk/england)	gb	circle	600	1/10/2014
+1183	6/25/2008 22:30	hull (uk/england)	gb	circle	30	7/5/2008
+1184	6/25/2008 23:15	lakenheath (uk/england)	gb	sphere	420	7/5/2008
+1185	6/25/2009 23:16	bishopstoke (uk/england)	gb	circle	1800	8/5/2009
+1186	6/26/2006 10:40	north queensferry (uk/scotland)	gb	disk	5	7/16/2006
+1187	6/26/2010 23:00	corby (uk/england)	gb	other	60	7/6/2010
+1188	6/26/2010 23:30	birmingham (uk/england)	gb	fireball	90	7/6/2010
+1189	6/26/2013 21:35	camborne (uk/england)	gb	light	60	7/3/2013
+1190	6/26/2013 22:00	crawley (uk/england)	gb	diamond	30	7/5/2013
+1191	6/27/2002 23:45	chelmsford (uk/england)	gb		300	7/1/2002
+1192	6/27/2004 00:40	broxburn (uk/england)	gb	light	30	7/8/2004
+1193	6/27/2009 23:00	stoke-on-trent (uk/england)	gb	circle	30	8/5/2009
+1194	6/27/2010 00:00	basingstoke (uk/england)	gb	fireball	40	7/6/2010
+1195	6/27/2010 22:15	hertfordshire (uk/england)	gb	oval	300	7/6/2010
+1196	6/29/2003 00:54	shoreham (uk/england)	gb	formation	3	7/16/2003
+1197	6/29/2008 02:30	thetford (uk/england)	gb	light	3600	7/5/2008
+1198	6/29/2008 22:45	cheltenham (uk/england)	gb	fireball	1800	7/5/2008
+1199	6/29/2012 00:30	hastings (uk/england)	gb	light	45	7/4/2012
+1200	6/29/2013 23:35	sutton coldfield (uk/england)	gb	other	60	7/3/2013
+1221	6/3/1992 07:36	leeds (uk/england)	gb	sphere	20	1/17/2004
+1222	6/3/1995 21:00	durham (uk/england)	gb	other	2	6/20/2005
+1223	6/3/2005 01:00	braintree (uk/england)	gb	fireball	600	7/5/2005
+1201	6/30/1960 00:00	london (uk/england)	gb	triangle	25	10/30/2006
+1202	6/30/1963 21:00	coventry (uk/england)	gb	circle	15	10/8/2007
+1203	6/30/1969 22:45	somerset (uk/england)	gb	cone	25248000	8/5/2009
+1204	6/30/1982 03:00	leicester (uk/england)	gb		1200	10/30/2006
+1205	6/30/1989 19:00	birmingham (uk/england)	gb	light	120	9/13/2002
+1206	6/30/1992 12:30	somerset (uk/england)	gb	unknown	720	10/30/2006
+1207	6/30/1993 22:00	leicestershire (uk/england)	gb	diamond	600	4/18/2012
+1208	6/30/1993 00:00	gateshead (uk/england)	gb	disk	600	3/19/2009
+1209	6/30/1994 22:00	wadworth (uk/england)	gb	triangle	3600	8/5/2009
+1210	6/30/1996 20:30	derbyshire (uk/england)	gb	other	60	8/10/1999
+1211	6/30/2001 04:00	hereford (uk/england)	gb	circle	3600	8/12/2008
+1212	6/30/2001 23:45	manchester (uk/england)	gb	sphere	300	8/5/2001
+1213	6/30/2002 15:00	leicester (uk/england)	gb	cigar	120	4/18/2012
+1214	6/30/2002 17:44	ipswich (uk/england)	gb	rectangle	0.3	11/4/2002
+1215	6/30/2003 13:30	leigh (uk/england)	gb		10	3/19/2009
+1216	6/30/2003 19:30	lincolnshire (uk/england)	gb	disk	1200	2/18/2013
+1217	6/30/2005 17:00	london (uk/england)	gb	sphere	60	10/8/2007
+1218	6/30/2005 00:00	bonnybridge (uk/scotland)	gb	sphere	60	2/14/2006
+1219	6/30/2006 17:25	manchester (uk/england)	gb	egg	900	4/27/2007
+1220	6/30/2010 00:00	nottingham (uk/england)	gb	light	7	7/6/2010
+1279	6/4/2010 23:25	east kilbride (glasgow) (uk/scotland)	gb	diamond	300	6/10/2010
+1280	6/4/2011 03:00	sowerby bridge (uk/england)	gb	sphere	600	6/12/2011
+1281	6/4/2012 22:00	hull (uk/england)	gb	light	300	6/5/2012
+1282	6/5/2000 01:30	manchester (uk/england)	gb	other	300	12/19/2003
+1350	6/5/2004 01:20	brighton (uk/england)	gb		2700	7/25/2004
+1351	6/5/2007 03:23	long eaton (derbyshire) (uk/england)	gb	light	45	6/12/2007
+1352	6/5/2010 00:00	hull (uk/england)	gb	circle	30	6/10/2010
+1353	6/5/2010 22:16	leeds (uk/england)	gb	light	2700	6/10/2010
+1354	6/5/2010 23:10	york (uk/england)	gb	teardrop	60	6/10/2010
+1355	6/6/1974 12:00	derbyshire (uk/england)	gb	triangle	180	12/7/2006
+1356	6/6/1997 02:00	swansea (uk/wales)	gb	triangle	180	4/16/2005
+1357	6/6/1997 00:00	sunderland (uk/england)	gb	circle	1200	1/22/2000
+1358	6/6/1998 17:00	edinburgh (uk/scotland)	gb	fireball	300	11/21/1998
+1359	6/6/2004 13:08	london (uk/england)	gb	oval	120	6/18/2004
+1360	6/6/2006 18:00	london (uk/england)	gb	teardrop	30	6/12/2007
+1361	6/6/2006 22:00	brighton (uk/england)	gb	sphere	2100	7/16/2006
+1362	6/6/2009 22:05	coventry (uk/england)	gb	fireball	120	6/9/2009
+1363	6/6/2010 03:30	halifax (uk/england)	gb	circle	60	6/10/2010
+1364	6/7/2001 23:20	manchester (uk/england)	gb	fireball	180	8/5/2001
+1365	6/7/2003 00:35	nottingham (uk/england)	gb	unknown	2	7/16/2003
+1366	6/7/2005 12:00	wolverhampton (uk/england)	gb	circle	120	6/20/2005
+1367	6/7/2005 14:30	stranraer (uk/scotland)	gb	other	1800	11/3/2005
+1368	6/7/2005 20:25	shoreham-by-sea (uk/england)	gb	disk	60	10/11/2005
+1369	6/7/2008 23:00	hereford (uk/england)	gb	light	300	7/5/2008
+1370	6/8/2006 15:00	shropshire (uk/england)	gb	disk	120	4/27/2007
+1371	6/8/2006 22:30	london (uk/england)	gb	formation	20	7/16/2006
+1372	6/8/2007 01:00	llanelli (south wales) (uk/wales)	gb	light	20	8/7/2007
+1373	6/8/2007 22:15	grimsby (uk/england)	gb	egg	60	10/8/2007
+1374	6/8/2008 00:15	falmouth (uk/england)	gb	flash	3	6/12/2008
+1375	6/8/2008 21:40	havant (uk/england)	gb	circle	240	7/5/2008
+1376	6/9/2003 00:31	bridgend (7 miles outside cardiff) (uk/wales)	gb	circle	480	6/18/2003
+1377	6/9/2005 21:47	london (northwest) (uk/england)	gb	light	25	10/11/2005
+1378	6/9/2006 23:00	brighton (uk/england)	gb	light	600	10/30/2006
+1379	6/9/2009 21:15	tunbridge wells (uk/england)	gb	circle	30	12/12/2009
+1380	6/9/2012 15:00	london (uk/england)	gb	circle	3	6/14/2012
+1381	6/9/2012 22:30	birmingham (uk/england)	gb	circle	420	6/14/2012
+1401	7/1/1975 19:00	hull (uk/england)	gb	triangle	60	8/5/2001
+1402	7/1/2000 22:00	banbury (uk/england)	gb	fireball	300	7/11/2000
+1403	7/1/2001 20:00	london (uk/england)	gb	oval	900	8/5/2001
+1404	7/1/2001 22:35	scarborough (uk/england)	gb	light	1200	6/12/2002
+1405	7/1/2005 23:00	bridlington (uk/england)	gb	light	600	9/2/2005
+1406	7/1/2010 02:40	lichfield (uk/england)	gb	light	300	7/19/2010
+1382	7/10/1980 14:30	brookwood (uk/england)	gb	egg	60	12/20/2012
+1383	7/10/1999 22:36	haworth ((uk/england)	gb	other	20	3/4/2003
+1384	7/10/2003 01:15	bedford (uk/england)	gb	diamond	3600	7/16/2003
+1385	7/10/2006 03:00	bognor regis (uk/england)	gb	triangle	1200	7/16/2006
+1386	7/10/2007 17:00	gourock (uk/scotland)	gb	sphere	1800	10/8/2007
+1387	7/10/2009 00:05	addingham (uk/england)	gb	light	180	8/5/2009
+1388	7/10/2010 22:00	portsmouth (uk/england)	gb	light	300	8/24/2010
+1389	7/10/2010 22:55	london (uk/england)	gb	light	30	7/19/2010
+1390	7/10/2010 23:10	louth (uk/england)	gb	cylinder	300	7/19/2010
+1391	7/11/2003 01:00	ramsgate (uk/england)	gb	unknown	3600	11/8/2003
+1392	7/11/2004 11:45	gosport (uk/england)	gb	disk	180	7/25/2004
+1393	7/11/2004 15:45	sunderland (uk/england)	gb	egg	240	7/25/2004
+1394	7/11/2005 23:35	ayr (uk/scotland)	gb	other	30	7/13/2005
+1395	7/11/2008 14:09	cardiff (uk/wales)	gb	changing	49	8/12/2008
+1396	7/11/2008 18:30	manchester (salford) (uk/england)	gb	cylinder	5	1/10/2009
+1397	7/11/2009 00:30	doncaster (uk/england)	gb	oval	60	7/19/2010
+1398	7/11/2010 03:00	london (uk/england)	gb	changing	120	7/19/2010
+1399	7/11/2010 07:00	rotherham (uk/england)	gb	flash	6	11/21/2010
+1400	7/11/2010 23:45	london (uk/england)	gb	circle	180	7/19/2010
+1407	7/12/2002 00:30	liverpool (uk/england)	gb	sphere	60	7/26/2002
+1408	7/12/2003 13:00	london (uk/england)	gb	sphere	1500	6/23/2004
+1409	7/12/2003 23:45	greenlaw (uk/england)	gb		300	7/16/2003
+1410	7/12/2004 04:35	bridgend (uk/england)	gb	triangle	1500	7/25/2004
+1411	7/12/2008 02:00	marlow (uk/england)	gb	circle	600	8/12/2008
+1412	7/12/2008 22:21	dover (uk/england)	gb	light	300	1/10/2009
+1413	7/12/2009 13:00	london (uk/england)	gb	cylinder	10	8/5/2009
+1414	7/12/2010 11:40	lichfield (uk/england)	gb	circle	300	7/19/2010
+1415	7/13/1997 01:30	hull (uk/england)	gb	sphere	300	1/28/1999
+1416	7/13/1997 23:30	telford (uk/england)	gb	oval	1200	1/11/2002
+1417	7/13/2004 06:00	hartlepool (uk/england)	gb	disk	30	1/10/2009
+1418	7/13/2005 00:00	leeds (uk/england)	gb	teardrop	900	2/14/2008
+1419	7/13/2006 23:25	camborne (uk/england)	gb	light	720	7/16/2006
+1420	7/13/2007 18:45	durham (uk/england)	gb	cylinder	240	10/8/2007
+1421	7/13/2009 00:10	london (uk/england)	gb		20	8/5/2009
+1422	7/13/2009 03:00	derbyshire (uk/england)	gb	cigar	600	8/5/2009
+1283	7/14/1979 22:00	motherwell (uk/scotland)	gb	light	180	5/4/2004
+1284	7/14/2003 01:00	london (uk/england)	gb	chevron	30	7/16/2003
+1285	7/14/2004 04:24	portsmouth (uk/england)	gb	diamond	14	9/2/2005
+1286	7/14/2007 23:20	baldock (uk/england)	gb	flash	600	8/7/2007
+1287	7/14/2008 01:00	brighton (uk/england)	gb	triangle	1200	8/12/2008
+1288	7/14/2008 22:00	potters bar (uk/england)	gb	oval	300	8/12/2008
+1289	7/15/1970 22:00	lincoln (near) (uk/england)	gb	disk	21600	8/28/2002
+1290	7/15/1976 19:00	london (uk/england)	gb	light	20	2/1/2007
+1291	7/15/1977 21:00	glasgow (uk/scotland)	gb	circle	30	12/17/2011
+1292	7/15/1985 05:30	birmingham (uk/england)	gb	fireball	3600	8/30/2013
+1293	7/15/1996 22:00	cumbria (uk/england)	gb	unknown	60	12/7/2006
+1294	7/15/1998 23:55	london (uk/england)	gb	other	40	8/19/2000
+1295	7/15/2000 22:20	bath (uk/england)	gb	fireball	360	7/23/2000
+1296	7/15/2001 04:19	bournemouth (uk/england)	gb	cross	90	8/12/2001
+1297	7/15/2001 07:43	gloucester (uk/england)	gb	oval	15	8/5/2001
+1298	7/15/2001 21:15	coventry (uk/england)	gb	light	60	5/14/2002
+1299	7/15/2001 22:45	ashford (uk/england)	gb	rectangle	60	4/22/2003
+1300	7/15/2001 23:37	sheffield (uk/england)	gb	disk	30	10/8/2007
+1301	7/15/2002 03:20	worthing (uk/england)	gb	light	180	7/26/2002
+1302	7/15/2002 05:00	hastings (uk/england)	gb	light	5	11/2/2004
+1303	7/15/2005 10:00	chippenham (uk/england)	gb	circle	7200	9/2/2005
+1304	7/15/2006 23:23	sunderland (uk/england)	gb	light	20	7/16/2006
+1305	7/15/2008 22:15	county durham (uk/england)	gb	circle	60	8/12/2008
+1306	7/15/2012 01:00	corby (uk/england)	gb	oval	300	8/5/2012
+1307	7/16/1975 18:30	manchester (uk/england)	gb	cigar	180	2/1/2007
+1308	7/16/2002 00:10	lemington (uk/england)	gb	other	600	7/26/2002
+1309	7/16/2003 02:00	london (uk/england)	gb	unknown	60	7/23/2003
+1310	7/16/2003 20:30	barnoldswick (uk/england)	gb		60	8/28/2003
+1311	7/16/2004 07:59	stockport (uk/england)	gb	changing	120	7/25/2004
+1312	7/16/2006 17:00	coventry (uk/england)	gb	changing	60	10/30/2006
+1313	7/16/2006 17:06	coventry (uk/england)	gb	changing	300	7/16/2006
+1314	7/16/2006 23:30	london (uk/england)	gb	circle	5	10/30/2006
+1315	7/16/2006 23:30	london (uk/england)	gb	light	2	10/30/2006
+1316	7/16/2009 02:30	wrexham (uk/wales)	gb	light	300	8/5/2009
+1317	7/16/2013 22:00	upminster (uk/england)	gb	light	1800	8/30/2013
+1318	7/17/1997 21:20	leeds (uk/england)	gb	sphere	180	12/23/2002
+1319	7/17/1998 21:00	scunthorpe (uk/england)	gb	unknown	10	12/2/2000
+1320	7/17/2002 14:30	liverpool (uk/england)	gb	cylinder	600	3/4/2003
+1321	7/17/2006 22:06	sunderland (uk/england)	gb	light	25	10/30/2006
+1322	7/18/1997 00:00	wolverhampton (uk/england)	gb	diamond	30	2/14/2010
+1323	7/18/1998 21:00	ramsgate (kent) (uk/england)	gb	light	60	4/18/2012
+1324	7/18/1999 23:30	manchester (uk/england)	gb	light	180	8/10/1999
+1325	7/18/2000 12:00	london (uk/england)	gb	disk	5	2/18/2001
+1326	7/18/2006 00:40	huntingdon (uk/england)	gb	unknown	3600	10/30/2006
+1327	7/18/2006 01:00	wrexham (uk/england)	gb	circle	300	10/30/2006
+1328	7/18/2006 18:30	northwich (uk/england)	gb	sphere	1800	10/30/2006
+1329	7/18/2006 20:15	stoke-on-trent (uk/england)	gb	circle	10	10/30/2006
+1330	7/18/2006 23:55	brighton (uk/england)	gb	light	5	10/30/2006
+1331	7/18/2006 23:55	isle of wight (uk/england)	gb	light	3	10/30/2006
+1332	7/18/2009 00:10	london (uk/england)	gb	light	180	8/5/2009
+1333	7/18/2009 22:35	gloucester (uk/england)	gb	unknown	30	8/5/2009
+1334	7/18/2009 23:45	london (uk/england)	gb	circle	150	8/5/2009
+1335	7/19/1977 15:00	edinburgh (uk/scotland)	gb	disk	180	11/23/1999
+1336	7/19/1999 16:00	leeds (uk/england)	gb	disk	14400	9/2/2005
+1337	7/19/2005 12:00	birmingham (uk/england)	gb	oval	3600	9/2/2005
+1338	7/19/2006 08:30	birmingham (uk/england)	gb	sphere	20	10/30/2006
+1339	7/19/2006 23:45	london (uk/england)	gb	light	3	10/30/2006
+1453	7/2/2002 23:40	formby (uk/england)	gb	triangle	180	7/26/2002
+1454	7/2/2010 22:40	manchester (uk/england)	gb	fireball	180	8/24/2010
+1455	7/2/2010 22:50	wigan (uk/england)	gb		30	7/6/2010
+1340	7/20/1976 00:00	london (uk/england)	gb	circle	120	4/24/2014
+1341	7/20/1987 23:00	widnes (uk/england)	gb	egg	60	7/8/2004
+1342	7/20/1988 02:00	nottingham (uk/england)	gb	cigar	300	5/11/2005
+1343	7/20/1998 01:35	east finchley (london) (uk/england)	gb	triangle	20	11/21/1998
+1344	7/20/2001 02:00	aberdeen (uk/scotland)	gb	light	240	8/5/2001
+1345	7/20/2002 00:00	skegness (uk/england)	gb	light	3600	2/4/2013
+1346	7/20/2003 01:30	newcastle upon tyne (uk/england)	gb	light	60	7/23/2003
+1347	7/20/2004 02:53	london (uk/england)	gb	triangle	300	7/25/2004
+1348	7/20/2008 00:15	london (uk/england)	gb	light	480	8/12/2008
+1349	7/20/2009 21:00	london (uk/england)	gb		2700	8/5/2009
+1423	7/21/1972 01:00	stoke-on-trent (uk/england)	gb	light	1800	4/16/2005
+1424	7/21/1997 02:00	london (uk/england)	gb	fireball	10	1/28/1999
+1425	7/21/2000 12:20	sheffield (near) (uk/england)	gb	disk	45	7/23/2000
+1426	7/21/2008 22:35	portsmouth (uk/england)	gb	triangle	600	8/12/2008
+1427	7/21/2009 16:00	morley (uk/england)	gb	flash	30	8/5/2009
+1456	7/22/1999 02:00	south shields (uk/england)	gb	other	10	11/17/1999
+1457	7/22/2001 16:30	liverpool (uk/england)	gb	cylinder	420	8/5/2001
+1458	7/22/2001 22:51	addlestone (near heathrow airport) (uk/england)	gb	circle	120	8/5/2001
+1459	7/22/2002 21:30	london (uk/england)	gb	cigar	600	10/7/2003
+1460	7/22/2007 22:00	rugby (uk/england)	gb	light	5	8/7/2007
+1461	7/23/1998 23:45	kirkby in ashfield (uk/england)	gb	other	600	10/20/2005
+1462	7/23/2002 00:15	london (uk/england)	gb	unknown	30	7/26/2002
+1463	7/23/2005 00:00	london (uk/england)	gb	light	600	9/2/2005
+1464	7/23/2009 23:55	london (uk/england)	gb	circle	15	8/5/2009
+1465	7/24/1999 19:00	south shields (uk/england)	gb	fireball	600	9/2/2005
+1466	7/24/2003 15:00	london (uk/england)	gb	sphere	300	8/1/2003
+1467	7/24/2006 23:10	pulborough (uk/england)	gb	light	40	10/30/2006
+1468	7/24/2007 00:00	burgess hill (uk/england)	gb	oval	240	10/8/2007
+1469	7/24/2008 00:00	gwent (uk/wales)	gb	circle	30	8/12/2008
+1470	7/25/1971 18:00	sutton (uk/england)	gb	disk	7200	8/20/2001
+1471	7/25/2000 22:00	lampeter (uk/wales)	gb	cylinder	600	2/18/2001
+1472	7/25/2002 23:30	sidmouth (uk/england)	gb	unknown	2	8/16/2002
+1473	7/25/2006 19:00	boston (uk/england)	gb	circle	300	6/12/2007
+1474	7/25/2007 22:30	stratford (uk/england)	gb	formation	1800	8/7/2007
+1475	7/25/2007 00:00	brighton (uk/england)	gb	triangle	120	8/7/2007
+1476	7/25/2009 22:00	kettering (uk/england)	gb	circle	120	8/5/2009
+1477	7/25/2009 22:30	hampshire (uk/england)	gb	changing	240	8/5/2009
+1478	7/26/2002 00:30	richmond (uk/england)	gb	light	120	8/28/2002
+1479	7/26/2002 22:15	colchester (uk/england)	gb	light	40	7/30/2002
+1480	7/26/2003 22:05	sheffield (uk/england)	gb	light	300	8/28/2003
+1481	7/26/2004 22:55	manchester (uk/england)	gb	fireball	300	8/11/2004
+1482	7/26/2006 09:26	southampton (uk/england)	gb	cross	60	10/30/2006
+1483	7/26/2007 22:30	stratford (uk/england)	gb	formation	1800	8/7/2007
+1484	7/26/2008 22:00	norton (uk/england)	gb	cross	180	8/12/2008
+1485	7/26/2008 23:00	bristol (uk/england)	gb	sphere	900	8/12/2008
+1486	7/27/2001 20:55	whitchurch (uk/england)	gb	oval	10	8/5/2001
+1487	7/27/2002 21:15	derby (uk/england)	gb	flash	1	8/16/2002
+1488	7/27/2004 21:10	glasgow (uk/scotland)	gb	rectangle	60	8/11/2004
+1489	7/27/2006 01:20	pembroke dock (uk/wales)	gb	disk	5	10/30/2006
+1490	7/27/2006 23:00	stevenage (uk/england)	gb	light	60	10/30/2006
+1491	7/27/2008 14:15	brean (sommerset) (uk/england)	gb	cigar	720	8/12/2008
+1492	7/27/2008 22:20	warrington (uk/england)	gb	other	2	8/12/2008
+1493	7/27/2011 21:20	malvern (uk/england)	gb	formation	2400	8/7/2011
+1494	7/28/2002 22:08	worcestershire (uk/england)	gb	light	360	7/30/2002
+1495	7/28/2002 23:50	london (uk/england)	gb	fireball	5	7/30/2002
+1496	7/28/2006 21:30	manchester (uk/england)	gb	triangle	10	10/30/2006
+1497	7/29/2001 21:30	hamilton (uk/scotland)	gb	egg	300	8/5/2001
+1498	7/29/2002 20:00	sidmouth (uk/england)	gb	unknown	4	8/16/2002
+1499	7/29/2007 01:25	kirkcaldy (uk/scotland)	gb	circle	600	8/7/2007
+1500	7/29/2008 22:00	telford (uk/england)	gb	light	600	8/12/2008
+1517	7/3/2003 18:15	liverpool (uk/england)	gb	oval	1200	8/4/2003
+1428	7/3/2007 23:15	aberdeen (uk/scotland)	gb	teardrop	1200	8/7/2007
+1429	7/3/2009 08:58	bristol (uk/england)	gb	sphere	8	8/5/2009
+1430	7/3/2009 23:45	harpenden (uk/england)	gb	fireball	15	8/5/2009
+1431	7/3/2010 19:45	glasgow (uk/scotland)	gb	circle	120	8/24/2010
+1501	7/30/1997 23:40	bognor regis (uk/england)	gb	circle	1800	3/21/2003
+1502	7/30/2003 23:00	edinburgh (uk/scotland)	gb	formation	45	8/1/2003
+1503	7/30/2006 16:40	sunderland (uk/england)	gb	circle	15	10/30/2006
+1504	7/30/2006 23:00	folkestone (uk/england)	gb	triangle	60	10/30/2006
+1505	7/30/2009 00:30	frant (uk/england)	gb	light	4	8/5/2009
+1506	7/30/2011 20:15	rotherham (uk/england)	gb	sphere	10	8/7/2011
+1507	7/30/2011 23:30	hull (uk/england)	gb	oval	1800	8/7/2011
+1508	7/30/2013 22:15	chawton (village of) (uk/england)	gb	light	30	8/30/2013
+1509	7/31/1983 17:00	london (uk/england)	gb	disk	120	6/20/2005
+1510	7/31/2001 00:30	southampton (uk/england)	gb	unknown	30	8/5/2001
+1511	7/31/2004 18:12	bristol (uk/england)	gb	cylinder	600	8/11/2004
+1512	7/31/2006 03:13	leicester (uk/england)	gb	egg	120	10/30/2006
+1513	7/31/2007 00:00	douglas (isle of man) (uk/england)	gb	oval	10	8/7/2007
+1514	7/31/2010 21:45	coventry (uk/england)	gb		120	8/24/2010
+1515	7/31/2012 21:00	london (uk/england)	gb	egg	45	8/5/2012
+1516	7/31/2013 04:35	whitehaven (uk/england)	gb	circle	600	8/30/2013
+1432	7/4/2008 00:05	shirebrook (uk/england)	gb	circle	10	7/5/2008
+1433	7/4/2008 23:00	kettering (uk/england)	gb	cigar	5	8/12/2008
+1434	7/4/2009 22:05	cardiff (uk/wales)	gb	oval	240	8/5/2009
+1435	7/4/2009 22:10	wellingborough (uk/england)	gb	circle	15	8/5/2009
+1436	7/4/2009 23:33	arundel (uk/england)	gb		300	8/5/2009
+1437	7/5/1986 01:15	coventry (uk/england)	gb	triangle	180	8/16/2002
+1438	7/5/1996 13:30	london (uk/england)	gb	light	90	12/9/2000
+1439	7/5/1999 23:00	leicester (uk/england)	gb	sphere	300	9/1/2004
+1440	7/5/2008 01:30	london (uk/england)	gb	light	3600	8/12/2008
+1441	7/5/2009 19:45	peterborough (uk/england)	gb	cylinder	45	8/5/2009
+1442	7/5/2009 23:15	bournemouth (uk/england)	gb	cylinder	300	8/5/2009
+1443	7/6/2003 00:08	porthmadog (uk/wales)	gb	unknown	60	7/16/2003
+1444	7/6/2004 12:00	cambridgeshire (uk/england)	gb	rectangle	1500	7/8/2004
+1445	7/6/2005 23:15	plymouth (uk/england)	gb	light	20	9/2/2005
+1446	7/7/1978 15:00	salisbury (uk/england)	gb	other	120	11/20/2001
+1447	7/7/1998 23:50	liverpool (uk/england)	gb	light	5	1/17/2004
+1448	7/7/2001 07:20	bath (uk/england)	gb	disk	120	10/8/2007
+1449	7/7/2002 23:46	malton (uk/england)	gb	circle	600	7/26/2002
+1450	7/7/2007 23:10	hartlepool (uk/england)	gb	fireball	120	8/7/2007
+1451	7/7/2008 23:08	huddersfield (uk/england)	gb	triangle	180	8/12/2008
+1452	7/7/2011 21:15	swindon (uk/england)	gb	fireball	120	7/17/2011
+1518	7/8/2001 02:42	rawtenstall (uk/england)	gb	oval	600	8/20/2001
+1519	7/8/2005 23:20	edinburgh (south of) (uk/scotland)	gb	triangle	180	9/2/2005
+1520	7/8/2006 22:00	whitstable (uk/england)	gb	sphere	180	7/16/2006
+1521	7/8/2006 22:30	london (uk/england)	gb	light	1200	7/16/2006
+1522	7/8/2006 23:00	watford (uk/england)	gb	oval	12	7/16/2006
+1574	7/8/2010 21:30	dymchurch (uk/england)	gb	egg	600	8/24/2010
+1575	7/9/1975 20:30	manchester (uk/england)	gb	triangle	600	8/5/2001
+1576	7/9/2004 17:10	west lancashire (uk/england)	gb	triangle	20	9/9/2004
+1577	7/9/2005 23:30	bristol (uk/england)	gb	cylinder	180	7/13/2005
+1595	8/1/1965 21:00	leamington spa (uk/england)	gb	light	300	8/5/2001
+1596	8/1/1974 18:00	kent (uk/england)	gb	cigar	10	4/16/2005
+1597	8/1/1979 16:00	manchester (uk/england)	gb	circle	120	3/19/2009
+1598	8/1/1995 16:00	hull (uk/england)	gb	triangle	1200	2/22/2002
+1599	8/1/1997 20:30	bradford (uk/england)	gb	sphere	5	9/2/2005
+1600	8/1/2001 22:00	oxford (uk/england)	gb	light	180	8/5/2001
+1601	8/1/2003 02:00	dorchester (uk/england)	gb	flash	600	9/24/2003
+1602	8/1/2003 11:00	liverpool (uk/england)	gb	circle	10	8/1/2003
+1603	8/1/2004 22:30	london (uk/england)	gb	triangle	30	9/29/2004
+1604	8/1/2008 20:30	brighton (uk/england)	gb	light	300	1/10/2009
+1578	8/10/2001 22:45	worcestershire (uk/england)	gb		120	8/12/2001
+1579	8/10/2002 01:00	gloucester (uk/england)	gb	triangle	60	9/6/2002
+1580	8/10/2003 18:00	glasgow (uk/scotland)	gb	sphere	30	8/28/2003
+1581	8/10/2007 19:05	accrington (uk/england)	gb	triangle	40	8/21/2011
+1582	8/10/2007 21:30	wolverhampton (uk/england)	gb	disk	12	8/14/2007
+1583	8/10/2008 23:55	birmingham (uk/england)	gb	chevron	30	8/12/2008
+1584	8/10/2009 22:15	bromley (uk/england)	gb	diamond	1200	8/27/2009
+1585	8/10/2010 22:00	glasgow (uk/scotland)	gb	light	1800	8/24/2010
+1586	8/10/2010 22:30	stafford (uk/england)	gb	sphere	180	8/24/2010
+1587	8/10/2010 23:30	exeter (uk/england)	gb	changing	30	11/21/2010
+1588	8/10/2010 23:45	merseyside (uk/england)	gb	light	120	10/14/2013
+1589	8/11/2000 22:00	frimley (uk/england)	gb	circle	30	8/19/2000
+1590	8/11/2006 00:00	northampton (uk/england)	gb	light	7200	10/30/2006
+1591	8/11/2007 21:40	oxford (uk/england)	gb	light	240	8/14/2007
+1592	8/11/2007 23:00	bedford (uk/england)	gb	light	30	1/21/2008
+1593	8/11/2009 00:00	harefield (uk/england)	gb	cylinder	4	12/12/2009
+1594	8/11/2011 03:30	hereford (uk/england)	gb	light	300	8/21/2011
+1605	8/12/2000 01:30	stockport (uk/england)	gb	cigar	7	8/19/2000
+1606	8/12/2001 17:00	dunkeld (uk/scotland)	gb	other	120	1/11/2002
+1607	8/12/2002 01:30	northampton (uk/england)	gb	changing	1800	9/19/2002
+1608	8/12/2002 17:50	coventry (uk/england)	gb	other	20	8/16/2002
+1609	8/12/2002 20:30	pontefract (uk/england)	gb	disk	40	8/16/2002
+1610	8/12/2002 22:12	rochester (uk/england)	gb	triangle	30	8/28/2002
+1611	8/12/2002 22:15	chelmsford (uk/england)	gb		60	8/16/2002
+1612	8/12/2002 22:45	coventry (uk/england)	gb	triangle	6	8/16/2002
+1613	8/12/2002 23:15	conisbrough (doncaster) (uk/england)	gb	light	15	8/16/2002
+1614	8/12/2002 23:15	nottingham (uk/england)	gb	sphere	20	8/16/2002
+1615	8/12/2002 23:15	rugby (uk/england)	gb	triangle	20	8/16/2002
+1616	8/12/2002 23:20	london (near) (uk/england)	gb	light	30	8/16/2002
+1617	8/12/2007 00:15	sunderland (uk/england)	gb	light	60	8/14/2007
+1618	8/12/2008 10:00	conwy (uk/wales)	gb	light	60	8/12/2008
+1619	8/12/2013 01:34	luton (uk/england)	gb	triangle	180	8/30/2013
+1620	8/13/1943 22:00	portsmouth (uk/england)	gb	sphere	600	4/16/2005
+1621	8/13/2006 20:18	clevedon (uk/england)	gb	sphere	30	10/30/2006
+1622	8/13/2007 00:16	london (uk/england)	gb	triangle	10	8/14/2007
+1623	8/13/2007 01:00	brighton (uk/england)	gb	triangle	7200	10/8/2007
+1624	8/13/2009 22:00	ellesmere port (uk/england)	gb	formation	20	8/27/2009
+1625	8/14/1995 18:30	burgess hill (uk/england)	gb	formation	600	3/11/2003
+1626	8/14/2006 00:30	bathgate (uk/scotland)	gb	triangle	120	10/30/2006
+1627	8/14/2008 19:30	rotherham (uk/england)	gb		1800	10/31/2008
+1628	8/14/2009 23:30	liverpool (uk/england)	gb	sphere	20	12/12/2009
+1629	8/14/2010 22:20	glasgow (uk/scotland)	gb	sphere	1800	8/24/2010
+1523	8/15/1998 20:28	southampton (uk/england)	gb	teardrop	180	2/14/2006
+1524	8/15/1998 22:30	luton (uk/england)	gb	light	120	12/5/2001
+1525	8/15/2002 19:00	cheshire (uk/england)	gb	fireball	50	5/9/2003
+1526	8/15/2003 01:30	birmingham (uk/england)	gb		30	8/28/2003
+1527	8/15/2007 00:30	glasgow (uk/scotland)	gb	fireball	20	8/30/2013
+1528	8/15/2009 22:20	poole (uk/england)	gb	unknown	120	8/27/2009
+1529	8/15/2009 23:26	cleckheaton (uk/england)	gb	fireball	60	8/27/2009
+1530	8/15/2012 15:00	benfleet (thames estuary) (uk/england)	gb	disk	900	10/30/2012
+1531	8/15/2012 21:00	rochdale (manchester) (uk/england)	gb	triangle	60	10/30/2012
+1532	8/15/2012 22:40	manchester (uk/england)	gb	circle	120	8/19/2012
+1533	8/16/1988 23:20	dudley (uk/england)	gb	triangle	300	7/16/2006
+1534	8/16/1989 02:00	birmingham (uk/england)	gb	circle	300	9/2/2005
+1535	8/16/1996 21:00	aberdeen (uk/scotland)	gb	light	1200	8/5/2001
+1536	8/16/2000 03:30	nottinghamshire (uk/england)	gb	circle	1200	9/17/2000
+1537	8/16/2000 22:00	hemel hempstead (uk/england)	gb	disk	180	8/5/2001
+1538	8/16/2001 22:00	abersoch (uk/wales)	gb	oval	600	4/22/2003
+1539	8/16/2002 22:34	new park (near the new forest) (uk/england)	gb	triangle	10	8/28/2002
+1540	8/16/2006 20:30	newcastle upon tyne (uk/england)	gb	changing	900	6/12/2007
+1541	8/17/2009 21:00	chelmsford (uk/england)	gb	rectangle	40	8/27/2009
+1542	8/18/1970 15:00	london (uk/england)	gb	disk	900	6/12/2008
+1543	8/18/1974 23:50	colwyn bay (town) (uk/wales)	gb	circle	10	3/9/2004
+1544	8/18/2002 23:08	preston (uk/england)	gb	triangle	600	8/28/2002
+1545	8/18/2006 23:00	polegate (uk/england)	gb	disk	600	10/30/2006
+1546	8/18/2007 01:00	london (uk/england)	gb	light	300	10/8/2007
+1547	8/18/2012 23:40	nottingham (uk/england)	gb	chevron	5	8/19/2012
+1548	8/19/1997 23:00	london (uk/england)	gb	circle	30	1/28/1999
+1549	8/19/2001 18:00	bognor (uk/england)	gb	changing	960	8/20/2001
+1550	8/19/2004 21:15	stafford (uk/england)	gb	sphere	2	8/24/2004
+1551	8/19/2005 22:30	cheltenham (uk/england)	gb	light	1200	9/2/2005
+1552	8/19/2009 22:00	leeds (uk/england)	gb		120	8/27/2009
+1553	8/19/2009 23:30	london (uk/england)	gb	circle	240	8/27/2009
+1554	8/19/2012 02:09	london (uk/england)	gb	triangle	13	8/19/2012
+1571	8/2/2003 12:30	stevenage (uk/england)	gb	light	300	8/4/2003
+1572	8/2/2006 02:30	exmouth (uk/england)	gb	diamond	3	10/30/2006
+1573	8/2/2009 22:45	avoch (uk/scotland)	gb	circle	20	8/5/2009
+1555	8/20/1984 14:00	london (uk/england)	gb	sphere	600	10/2/1999
+1556	8/20/1996 17:00	romford (essex) (uk/england)	gb	disk	300	4/24/2014
+1557	8/20/2001 00:00	dundee (tayside; alba) (uk/scotland)	gb	light	900	10/30/2006
+1558	8/20/2002 23:53	birmingham (uk/england)	gb	sphere	10	9/6/2002
+1559	8/20/2003 22:10	newton abbot (uk/england)	gb	circle	120	8/28/2003
+1560	8/20/2005 20:00	wakefield (uk/england)	gb	disk	300	10/11/2005
+1561	8/20/2009 21:00	shropshire (uk/england)	gb	circle	600	10/10/2011
+1562	8/20/2009 23:57	shebbear (uk/england)	gb	circle	3600	8/27/2009
+1563	8/20/2011 20:00	cheshire (uk/england)	gb	sphere	60	8/21/2011
+1564	8/21/1998 21:00	glastonbury (uk/england)	gb	sphere	300	3/19/2009
+1565	8/21/2005 14:46	derby (uk/england)	gb	egg	30	10/11/2005
+1566	8/21/2006 19:00	guildford (uk/england)	gb	circle	30	10/30/2006
+1567	8/21/2006 21:00	hope (uk/england)	gb	light	180	10/30/2006
+1568	8/21/2006 21:40	edinburgh (uk/scotland)	gb	light	40	10/30/2006
+1569	8/21/2009 00:00	baildon (uk/england)	gb	unknown	120	8/27/2009
+1570	8/21/2011 22:10	london (uk/england)	gb	teardrop	120	8/21/2011
+1630	8/22/2005 00:00	doncaster (south yorkshire) (uk/england)	gb	sphere	600	10/11/2005
+1631	8/22/2006 19:30	glasgow (outside of) (uk/scotland)	gb	circle	30	10/30/2006
+1632	8/22/2009 20:50	northampton (uk/england)	gb	light	600	8/27/2009
+1633	8/22/2009 21:40	coalville (uk/england)	gb	other	100	8/27/2009
+1677	8/23/2000 23:15	burgess hill (uk/england)	gb	formation	1800	9/17/2000
+1678	8/23/2002 21:10	blackpool (uk/england)	gb		300	8/28/2002
+1679	8/23/2008 01:27	cambridgeshire (uk/england)	gb	other	480	10/31/2008
+1680	8/23/2011 18:30	lancashire (uk/england)	gb	circle	1200	10/10/2011
+1681	8/24/2001 23:50	london (uk/england)	gb	circle	6	12/5/2001
+1682	8/24/2005 00:00	mansfield (uk/england)	gb	disk	300	10/11/2005
+1683	8/24/2005 22:45	broadway (uk/england)	gb	unknown	2	10/11/2005
+1684	8/25/1995 13:26	haslemere (uk/england)	gb	teardrop	10	5/15/2006
+1685	8/25/2000 21:30	bootle (uk/england)	gb	triangle	900	9/17/2000
+1686	8/25/2003 13:00	coventry (uk/england)	gb	other	180	9/17/2003
+1687	8/25/2003 21:35	southampton (uk/england)	gb	circle	30	8/28/2003
+1688	8/25/2006 00:00	cardiff (uk/wales)	gb	triangle	40	10/30/2006
+1689	8/25/2007 21:00	tonbridge (uk/england)	gb	sphere	360	10/8/2007
+1690	8/25/2013 16:00	great yarmouth (uk/england)	gb	sphere	4	12/2/2013
+1691	8/26/2001 00:30	ipswich (suffolk) (uk/england)	gb		60	10/12/2001
+1692	8/26/2006 22:04	essex (uk/england)	gb	fireball	240	10/30/2006
+1693	8/26/2007 03:28	liverpool (uk/england)	gb	light	10	10/8/2007
+1694	8/26/2007 18:51	milton keynes (uk/england)	gb	formation	240	10/8/2007
+1695	8/27/2000 15:30	london (sw8.4jq) (uk/england)	gb	triangle	900	12/2/2000
+1696	8/27/2002 22:30	cardiff (near) (uk/wales)	gb	light	3600	9/13/2002
+1697	8/27/2006 21:45	blackpool (uk/england)	gb	light	30	10/30/2006
+1698	8/27/2011 21:30	henham (near stansted airport) (uk/england)	gb	sphere	2700	10/10/2011
+1699	8/27/2011 22:30	horley (uk/england)	gb	triangle	7200	10/10/2011
+1700	8/28/1992 05:30	yorkshire (south) (uk/england)	gb	oval	300	8/5/2001
+1701	8/28/2000 23:00	bracknell (uk/england)	gb	light	20	9/17/2000
+1702	8/28/2001 21:15	nottingham (uk/england)	gb	other	3	10/12/2001
+1703	8/28/2002 22:30	plymouth (near) (uk/england)	gb	flash	10	9/6/2002
+1704	8/28/2007 19:50	liverpool (uk/england)	gb	rectangle	40	10/8/2007
+1705	8/28/2009 23:50	altrincham (uk/england)	gb	fireball	180	12/12/2009
+1706	8/28/2012 03:30	york (uk/england)	gb	light	2400	9/24/2012
+1707	8/29/1999 16:14	salford (uk/england)	gb	changing	600	1/31/2004
+1708	8/29/2001 23:30	nottingham (uk/england)	gb	egg	12	10/12/2001
+1709	8/29/2003 21:35	middlesbrough (uk/england)	gb	unknown	40	9/4/2003
+1710	8/29/2004 22:30	london (uk/england)	gb	sphere	30	9/1/2004
+1711	8/29/2005 21:00	essex (uk/england)	gb	circle	600	10/11/2005
+1712	8/29/2009 05:20	bradford (uk/england)	gb		60	12/12/2009
+1713	8/29/2009 21:20	newcastle upon tyne (uk/england)	gb	circle	2400	12/12/2009
+1714	8/29/2009 21:20	worcester (uk/england)	gb	circle	600	12/12/2009
+1715	8/29/2011 21:45	woodhall spa (uk/england)	gb	light	300	10/10/2011
+1716	8/29/2013 09:00	nottingham (uk/england)	gb	light	60	8/30/2013
+1717	8/29/2013 20:30	kingswinford (uk/england)	gb		180	8/30/2013
+1728	8/3/1997 10:00	darvel (uk/scotland)	gb	disk	86400	2/14/2006
+1729	8/3/2002 15:10	morecambe (uk/england)	gb	light	1200	8/16/2002
+1730	8/3/2003 16:45	london (uk/england)	gb	sphere	900	8/4/2003
+1731	8/3/2003 23:30	kent (uk/england)	gb	light	300	8/4/2003
+1732	8/3/2004 23:30	middlesbrough (uk/england)	gb	chevron	180	10/27/2004
+1733	8/3/2005 16:42	london (uk/england)	gb	circle	60	10/11/2005
+1734	8/3/2008 22:00	north yorkshire (uk/england)	gb	oval	5	10/31/2008
+1718	8/30/1978 22:00	bristol (uk/england)	gb	cigar	240	9/4/2003
+1719	8/30/1980 20:00	llandudno (uk/wales)	gb	circle	900	7/11/2000
+1720	8/30/2000 01:34	southampton (uk/england)	gb	triangle	300	9/17/2000
+1721	8/30/2004 15:50	glasgow (uk/scotland)	gb	unknown	34	2/1/2007
+1722	8/30/2005 03:55	london (uk/england)	gb	triangle	60	10/11/2005
+1723	8/30/2005 22:30	coventry (uk/england)	gb	chevron	10	10/11/2005
+1724	8/30/2010 22:00	annalong (uk/england)	gb	fireball	300	8/30/2010
+1725	8/31/2000 22:35	northampton (uk/england)	gb	triangle	600	9/17/2000
+1726	8/31/2003 16:00	basingstoke (uk/england)	gb	cigar	1200	9/4/2003
+1727	8/31/2005 21:30	plymouth (uk/england)	gb		60	10/11/2005
+1735	8/4/2001 01:30	worthing (uk/england)	gb	diamond	3600	8/5/2001
+1736	8/4/2003 14:30	banbury (near) (uk/england)	gb	rectangle	60	8/28/2003
+1737	8/4/2006 19:00	nelson (uk/england)	gb	formation	1200	10/30/2006
+1738	8/4/2007 23:15	worthing (uk/england)	gb	circle	300	8/7/2007
+1739	8/4/2008 23:00	ingoldmells (uk/england)	gb	unknown	2	10/31/2008
+1634	8/5/2006 13:00	london (uk/england)	gb	circle	10	10/30/2006
+1635	8/5/2010 22:45	falkirk (uk/scotland)	gb	circle	120	8/24/2010
+1636	8/5/2013 22:25	cardigan (uk/wales)	gb	sphere	240	8/30/2013
+1637	8/6/2004 13:13	hampshire (uk/england)	gb	unknown	60	8/11/2004
+1638	8/6/2005 17:30	st. austell (uk/england)	gb	circle	2	9/2/2005
+1639	8/6/2010 22:00	london (uk/england)	gb	rectangle	60	8/24/2010
+1640	8/7/2004 04:30	chingford (london) (uk/england)	gb	circle	1800	9/1/2004
+1641	8/7/2004 15:30	manchester (uk/england)	gb	oval	300	8/11/2004
+1642	8/7/2008 22:00	grangemouth (uk/scotland)	gb	light	600	8/12/2008
+1643	8/7/2010 22:00	larkhall (uk/scotland)	gb	fireball	1200	8/24/2010
+1644	8/7/2013 00:50	lincoln (lincolnshire) (uk/england)	gb	other	90	8/30/2013
+1645	8/8/1967 22:00	oxford (uk/england)	gb	unknown	2400	8/11/2004
+1646	8/8/1996 21:00	gloucester (uk/england)	gb	sphere	5	11/20/2001
+1647	8/8/1997 18:20	tadley (uk/england)	gb	circle	2400	12/2/2000
+1648	8/8/2000 22:45	edinburgh (over) (uk/scotland)	gb		900	9/17/2000
+1649	8/8/2002 12:30	nottingham (uk/england)	gb	other	240	1/31/2004
+1650	8/8/2005 10:45	london (epping) (uk/england)	gb	changing	240	9/2/2005
+1651	8/8/2007 23:10	swinton (uk/england)	gb	diamond	20	8/14/2007
+1652	8/8/2009 21:52	doncaster (uk/england)	gb	light	40	8/27/2009
+1653	8/8/2009 21:52	doncaster (uk/england)	gb	light	40	8/27/2009
+1654	8/8/2009 23:10	nottingham (uk/england)	gb	fireball	600	8/27/2009
+1655	8/8/2011 00:22	kingston upon hull (uk/england)	gb	light	600	8/7/2011
+1656	8/9/1995 20:30	bournemouth (uk/england)	gb	sphere	8	11/16/2002
+1657	8/9/2002 00:36	liverpool (uk/england)	gb	sphere	300	8/16/2002
+1658	8/9/2003 23:50	doncaster (uk/england)	gb	chevron	5	8/28/2003
+1659	8/9/2008 02:00	alton (hampshire) (uk/england)	gb	light	60	8/12/2008
+1660	8/9/2009 09:20	watton (uk/england)	gb	sphere	30	8/27/2009
+1661	8/9/2009 22:30	llanelli (uk/wales)	gb	other	600	8/27/2009
+1671	9/1/1999 21:40	middlesbrough (uk/england)	gb	teardrop	600	3/11/2006
+1672	9/1/2000 17:00	london (uk/england)	gb	disk	7200	1/5/2011
+1673	9/1/2001 02:30	blackburn (uk/england)	gb	egg	7200	10/12/2001
+1674	9/1/2002 23:00	leeds (uk/england)	gb	diamond	30	10/17/2003
+1675	9/1/2002 23:34	norwich (uk/england)	gb	oval	300	9/6/2002
+1676	9/1/2006 20:25	lancaster (cantsfield) (uk/england)	gb	light	600	10/30/2006
+1662	9/10/2002 11:15	peterborough (uk/england)	gb	egg	4	3/4/2003
+1663	9/10/2003 20:23	bonnybridge (uk/scotland)	gb	other	180	9/12/2003
+1664	9/10/2004 00:35	llandeilo (uk/wales)	gb	unknown	120	9/29/2004
+1665	9/10/2006 21:00	bristol (uk/england)	gb	oval	5	10/30/2006
+1666	9/10/2007 22:30	manchester (uk/england)	gb	formation	30	10/8/2007
+1667	9/11/1978 00:00	reading (uk/england)	gb	light	45	11/20/2001
+1668	9/11/2009 21:45	manchester (uk/england)	gb	oval	60	12/12/2009
+1669	9/11/2009 21:45	preston (uk/england)	gb	unknown	5	12/12/2009
+1670	9/11/2010 22:30	south yorkshire (uk/england)	gb	disk	10	11/21/2010
+1740	9/12/2004 05:00	andover (uk/england)	gb	triangle	300	9/29/2004
+1741	9/12/2009 20:30	swindon (uk/england)	gb	fireball	180	12/12/2009
+1742	9/12/2009 21:20	manchester (uk/england)	gb	circle	5	12/12/2009
+1743	9/12/2009 22:30	lincoln (uk/england)	gb	fireball	60	12/12/2009
+1744	9/12/2010 16:00	bradford (west yorkshire) (uk/england)	gb	circle	360	11/21/2010
+1803	9/13/2002 17:15	london (uk/england)	gb	changing	1200	9/19/2002
+1804	9/13/2002 20:45	manchester (uk/england)	gb	oval	45	9/13/2002
+1805	9/13/2003 00:05	warrington (uk/england)	gb	circle	5	9/17/2003
+1806	9/13/2003 14:00	manchester (uk/england)	gb	other	1200	9/24/2003
+1807	9/14/1980 19:00	todmorden (uk/england)	gb	other	36	12/2/2000
+1808	9/14/2003 16:30	london (uk/england)	gb	circle	3600	10/31/2003
+1809	9/14/2003 16:30	london (uk/england)	gb	circle	3600	10/7/2003
+1810	9/15/1967 11:00	birmingham (uk/england)	gb	cigar	14400	2/18/2001
+1811	9/15/1984 22:30	gravesend (uk/england)	gb	triangle	180	7/26/2002
+1812	9/15/1993 15:00	colchester (uk/england)	gb	cigar	420	5/24/2005
+1813	9/15/2000 13:20	wythenshawe (uk/england)	gb	light	600	10/30/2006
+1814	9/15/2000 20:00	ashburton (uk/england)	gb	other	1200	5/24/2005
+1815	9/15/2001 00:00	harrogate (uk/england)	gb	rectangle	1800	11/20/2013
+1816	9/15/2002 11:30	chichester (uk/england)	gb	sphere	1200	9/19/2002
+1817	9/15/2006 00:00	aberdeen (uk/scotland)	gb	light	300	6/12/2007
+1818	9/15/2007 00:20	london (uk/england)	gb	changing	240	10/8/2007
+1819	9/15/2007 11:00	london (uk/england)	gb	teardrop	660	10/8/2007
+1820	9/15/2010 22:30	bishop auckland (uk/england)	gb	diamond	2700	11/21/2010
+1821	9/15/2011 22:00	blackpool (uk/england)	gb	disk	60	10/23/2013
+1822	9/15/2011 23:30	oxford (uk/england)	gb	sphere	120	7/4/2012
+1823	9/16/1978 21:30	edinburgh (uk/scotland)	gb	circle	60	8/5/2001
+1824	9/16/1996 17:30	manchester (uk/england)	gb	diamond	20	6/21/2000
+1825	9/16/2000 19:30	glasgow (uk/scotland)	gb	diamond	7	9/21/2000
+1826	9/16/2001 17:30	falkirk (uk/scotland)	gb	circle	10	6/12/2002
+1827	9/16/2004 21:00	ruislip (uk/england)	gb	formation	1200	9/29/2004
+1828	9/16/2006 22:30	nottingham (uk/england)	gb	fireball	1500	10/30/2006
+1829	9/16/2007 02:45	loughton (uk/england)	gb	triangle	180	10/8/2007
+1830	9/16/2009 00:02	caersws (uk/wales)	gb	cigar	90	12/12/2009
+1831	9/17/2000 19:45	nottinghamshire (uk/england)	gb	chevron	15	9/21/2000
+1832	9/17/2000 21:05	birmingham (uk/england)	gb	triangle	300	9/21/2000
+1833	9/17/2002 21:45	swindon (uk/england)	gb	disk	4	9/19/2002
+1834	9/17/2009 20:38	harrogate (uk/england)	gb		120	12/12/2009
+1835	9/18/1999 03:30	london (croydon) (uk/england)	gb	unknown	10	9/19/2002
+1836	9/18/2008 21:30	weymouth (uk/england)	gb	triangle	5	10/31/2008
+1837	9/18/2008 21:55	crudwell (uk/england)	gb	circle	300	10/31/2008
+1838	9/18/2009 21:04	doncaster (uk/england)	gb	fireball	300	12/12/2009
+1839	9/18/2009 21:30	grimsby (grimsby) (uk/england)	gb	light	120	12/12/2009
+1840	9/19/2008 19:50	stoke-on-trent (uk/england)	gb	light	600	10/31/2008
+1745	9/2/2002 02:20	peterborough (uk/england)	gb	light	60	9/6/2002
+1746	9/2/2005 15:00	leicester (uk/england)	gb	oval	10	9/15/2005
+1747	9/2/2006 23:15	bristol (uk/england)	gb	other	30	10/30/2006
+1748	9/2/2009 20:30	manchester (uk/england)	gb	sphere	180	12/12/2009
+1841	9/20/2000 20:30	swansea (uk/wales)	gb	sphere	300	2/1/2007
+1842	9/20/2000 22:30	bridgnorth (uk/england)	gb	formation	2	12/2/2000
+1843	9/20/2000 22:30	padstow (uk/england)	gb	other	1200	2/22/2002
+1844	9/20/2003 19:50	southampton (hampshire) (uk/england)	gb	light	30	10/31/2003
+1845	9/20/2008 20:35	timperley (uk/england)	gb	light	2	10/31/2008
+1846	9/20/2009 00:00	birmingham (uk/england)	gb	light	240	12/12/2009
+1847	9/20/2009 11:40	birmingham (uk/england)	gb	other	120	12/12/2009
+1848	9/21/1996 23:00	norwich (uk/england)	gb	triangle	10	7/5/2005
+1849	9/21/2003 03:55	liverpool (uk/england)	gb	triangle	240	9/24/2003
+1850	9/21/2004 01:54	plymouth (uk/england)	gb	teardrop	30	10/27/2004
+1851	9/21/2006 21:00	wakefield (uk/england)	gb	light	60	10/30/2006
+1852	9/21/2008 13:30	wakefield (uk/england)	gb	sphere	300	10/31/2008
+1853	9/21/2008 16:00	featherstone (uk/england)	gb	flash	60	10/31/2008
+1854	9/21/2008 20:00	cardiff (uk/wales)	gb	unknown	60	10/31/2008
+1855	9/21/2009 20:00	thame (uk/england)	gb	fireball	120	12/12/2009
+1856	9/21/2009 00:00	havant (uk/england)	gb	teardrop	600	12/12/2009
+1857	9/21/2011 22:30	walsall (uk/england)	gb	circle	120	8/5/2012
+1858	9/21/2012 22:35	burry port (uk/wales)	gb	fireball	120	9/24/2012
+1859	9/21/2012 22:55	alfreton (uk/england)	gb	fireball	30	9/24/2012
+1860	9/21/2012 22:55	warton (uk/england)	gb	unknown	30	9/24/2012
+1861	9/21/2012 22:58	derbyshire (uk/england)	gb	fireball	120	9/24/2012
+1862	9/21/2012 23:00	carmarthenshire (uk/england)	gb	other	8	9/24/2012
+1863	9/21/2012 23:00	glasgow (uk/scotland)	gb	circle	10	9/24/2012
+1864	9/21/2012 23:00	newcastle upon tyne (uk/england)	gb	fireball	420	10/30/2012
+1865	9/21/2012 23:00	pwllheli (uk/wales)	gb	other	300	9/24/2012
+1866	9/21/2012 23:00	redberth (uk/england)	gb	fireball	600	9/24/2012
+1867	9/21/2012 23:00	wolverhampton (uk/england)	gb	changing	18	9/24/2012
+1868	9/21/2012 23:05	derby (uk/england)	gb	other	15	9/24/2012
+1749	9/22/2000 19:38	penrith (uk/england)	gb	triangle	3600	12/2/2000
+1750	9/22/2007 20:00	keighley (uk/england)	gb	sphere	600	10/8/2007
+1751	9/22/2007 22:00	manchester (withington) (uk/england)	gb	circle	600	10/8/2007
+1752	9/22/2008 20:46	edinburgh (uk/scotland)	gb	triangle	20	10/31/2008
+1753	9/23/1999 17:30	sunderland (uk/england)	gb	flash	10	2/16/2000
+1754	9/23/2002 01:00	london (uk/england)	gb	triangle	960	10/15/2002
+1755	9/23/2002 06:15	swindon (uk/england)	gb	disk	4	3/4/2003
+1756	9/23/2003 21:00	basingstoke (uk/england)	gb	cigar	60	5/10/2004
+1757	9/23/2004 21:23	durham (uk/england)	gb	unknown	7	9/29/2004
+1758	9/24/1999 22:00	beaconsfield (uk/england)	gb	triangle	60	10/31/2003
+1759	9/24/2001 22:30	oldbury (uk/england)	gb	triangle	120	10/12/2001
+1760	9/24/2004 00:00	dunstable (uk/england)	gb	teardrop	600	9/29/2004
+1761	9/24/2006 18:00	leeds (uk/england)	gb	circle	300	10/30/2006
+1762	9/24/2006 21:00	manchester (uk/england)	gb	light	120	10/30/2006
+1763	9/24/2012 11:00	carmarthen (uk/wales)	gb	triangle	300	9/24/2012
+1764	9/24/2012 20:09	southport (uk/england)	gb	circle	60	10/30/2012
+1765	9/24/2013 19:30	warrington (uk/england)	gb	disk	120	9/30/2013
+1766	9/25/1996 22:00	oxford (uk/england)	gb	unknown	600	10/12/2001
+1767	9/25/2003 22:30	chester (uk/england)	gb	triangle	180	12/3/2004
+1768	9/25/2005 19:00	nottingham (uk/england)	gb	changing	180	10/11/2005
+1769	9/25/2006 11:00	salisbury (uk/england)	gb	oval	120	2/1/2007
+1770	9/25/2008 16:15	london (uk/england)	gb	sphere	1	10/31/2008
+1771	9/25/2008 20:55	shrewsbury (uk/england)	gb	light	60	10/31/2008
+1772	9/25/2008 22:01	newport (uk/wales)	gb	light	5	10/31/2008
+1773	9/25/2010 21:00	wolverhampton (uk/england)	gb	fireball	600	11/21/2010
+1774	9/25/2010 21:30	oldham (uk/england)	gb	fireball	20	11/21/2010
+1775	9/26/2002 16:00	middlesbrough (uk/england)	gb	teardrop	900	5/24/2005
+1776	9/26/2002 20:30	warminster (uk/england)	gb	changing	30	9/28/2002
+1777	9/26/2007 21:30	blandford forum (uk/england)	gb	circle	600	3/4/2008
+1778	9/26/2008 20:15	leeds (uk/england)	gb	other	3600	10/31/2008
+1779	9/26/2009 20:09	sunderland (uk/england)	gb	formation	120	12/12/2009
+1780	9/27/2000 22:15	newcastle (uk/england)	gb	disk	180	12/2/2000
+1781	9/27/2003 01:15	leicester (uk/england)	gb	unknown	600	9/28/2003
+1782	9/27/2012 07:00	newport (gwent) (uk/wales)	gb	light	300	10/30/2012
+1783	9/27/2013 00:05	bristol (uk/england)	gb	unknown	30	9/30/2013
+1784	9/28/2003 21:00	northamptonshire (uk/england)	gb	oval	60	10/7/2003
+1785	9/28/2003 23:05	norwich (norfolk) (uk/england)	gb	oval	1.5	10/7/2003
+1786	9/28/2008 19:32	bournemouth (uk/england)	gb	circle	300	10/31/2008
+1787	9/28/2008 20:59	selborne (hampshire) (uk/england)	gb	light	2700	10/31/2008
+1788	9/28/2009 16:38	butterwick (uk/england)	gb	light	120	12/12/2009
+1789	9/28/2012 22:00	london (uk/england)	gb	circle	60	11/4/2012
+1790	9/29/2001 22:00	craigavon (uk/northern ireland)	gb	disk	120	10/12/2001
+1791	9/29/2002 07:30	london (uk/england)	gb	other	300	10/15/2002
+1792	9/29/2002 21:40	colchester (uk/england)	gb	light	360	10/15/2002
+1793	9/29/2004 17:45	kent (uk/england)	gb	changing	900	9/29/2004
+1794	9/29/2004 21:30	brighton (uk/england)	gb	sphere	15	10/27/2004
+1795	9/29/2006 20:00	motherwell (uk/scotland)	gb	other	240	10/30/2006
+1796	9/29/2006 20:33	motherwell (uk/england)	gb	other	480	12/7/2006
+1797	9/29/2008 21:45	barnsley (uk/england)	gb	circle	1200	10/31/2008
+1798	9/29/2012 20:55	crawley (uk/england)	gb	light	40	10/30/2012
+1802	9/3/2000 20:20	london (uk/england)	gb	circle	20	9/17/2000
+1869	9/3/2004 05:30	yeovil (somerset) (uk/england)	gb	unknown	1200	9/9/2004
+1870	9/3/2013 22:00	glastonbury (uk/england)	gb	other	30	9/9/2013
+1799	9/30/2000 22:10	ipswich (uk/england)	gb	sphere	8	12/2/2000
+1800	9/30/2009 16:00	worcester (uk/england)	gb	other	1	4/13/2010
+1801	9/30/2012 00:30	london (uk/england)	gb	circle	300	10/30/2012
+1871	9/4/1998 06:05	nitshill (uk/scotland)	gb	triangle	15	2/24/2001
+1872	9/4/2003 22:23	gloucester (uk/england)	gb	oval	30	9/9/2003
+1873	9/4/2003 22:45	watford (uk/england)	gb	oval	60	9/17/2003
+1874	9/4/2004 21:07	london (uk/england)	gb	light	10	9/9/2004
+1875	9/4/2004 23:00	weymouth (uk/england)	gb	light	3600	5/24/2005
+1876	9/4/2007 18:03	newbridge (gwent) (uk/wales)	gb	sphere	60	10/8/2007
+1877	9/4/2009 23:00	inverness (uk/scotland)	gb	circle	1800	12/12/2009
+1878	9/4/2009 23:25	lancashire (uk/england)	gb		30	12/12/2009
+1879	9/4/2010 21:10	telford (shropshire) (uk/england)	gb	fireball	2100	11/21/2010
+1880	9/4/2010 21:50	forfar (uk/scotland)	gb	circle	300	11/21/2010
+1881	9/4/2010 22:30	colchester (uk/england)	gb	circle	300	11/21/2010
+1882	9/5/1976 21:00	birmingham (uk/england)	gb	circle	2400	7/5/2005
+1883	9/5/1998 15:15	shrewsbury (uk/england)	gb	circle	30	11/9/2004
+1884	9/5/1999 23:35	peterborough (uk/england)	gb	triangle	18	3/4/2003
+1885	9/5/2003 16:00	derby (uk/england)	gb	disk	2700	5/24/2005
+1886	9/5/2005 20:00	fife (uk/england)	gb	light	18000	10/11/2005
+1887	9/5/2009 21:11	kent (uk/england)	gb	circle	90	12/12/2009
+1888	9/6/1995 01:30	stirling (uk/scotland)	gb	other	360	8/20/2001
+1889	9/6/2003 06:00	manchester (uk/england)	gb	disk	120	9/12/2003
+1890	9/7/1998 21:00	barnsley (uk/england)	gb	circle	1800	7/16/2003
+1891	9/7/2003 08:00	london (uk/england)	gb	cigar	10	9/17/2003
+1892	9/7/2003 13:00	luton (uk/england)	gb	circle	20	9/9/2003
+1893	9/7/2004 00:03	london (uk/england)	gb	circle	600	7/16/2006
+1894	9/8/1970 22:00	kirkby (merseyside) (uk/england)	gb	egg	120	12/7/2006
+1895	9/8/2003 22:00	fife (uk/scotland)	gb	light	300	9/12/2003
+1896	9/8/2004 00:30	grimsby (uk/england)	gb	triangle	10	10/27/2004
+1897	9/8/2007 22:15	hampshire (uk/england)	gb	circle	600	10/8/2007
+1898	9/8/2007 22:20	london (uk/england)	gb	triangle	30	10/8/2007
+1899	9/8/2012 09:34	kent (uk/england)	gb	formation	900	9/24/2012
+1900	9/8/2012 19:55	london (uk/england)	gb	teardrop	120	9/24/2012
+1901	9/9/2001 05:30	lincoln (uk/england)	gb	triangle	1500	10/12/2001
+1902	9/9/2006 21:00	yorkshire (uk/england)	gb	light	300	10/30/2006
+1903	9/9/2007 11:00	christchurch (uk/england)	gb	other	600	10/8/2007
+1904	9/9/2009 03:14	aberdeen (uk/scotland)	gb	light	6	12/12/2009
+1905	9/9/2009 21:15	nottinghamshire (uk/england)	gb	fireball	600	12/12/2009
