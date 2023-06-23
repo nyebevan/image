@@ -1,0 +1,7 @@
+Ship	June 1	June 8	June 15	June 22	June 29	July 6
+Ocean Princess	104	56	164	164	50	58
+Ocean Sun Ray	10	152	57	89	177	85
+Ocean Jewel	129	73	161	184	190	93
+Ocean Virgin	135	30	36	168	103	129
+Ocean Dancer	75	143	96	144	169	81
+Ocean Radiance	150	18	106	111	158	70
